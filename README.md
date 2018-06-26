@@ -1,4 +1,6 @@
 # RodneyPrice.github.io
+(PLEASE READ RAW README)
+
 SMH here has created the 1v1 Catalog project, the goal here was to create something that was more comprehensive than a pokepaste to store all of the sets. 
 
 RANKINGS OF POKEMON:
