@@ -1,6 +1,4 @@
 # RodneyPrice.github.io
-(PLEASE READ RAW README)
-
 SMH here has created the 1v1 Catalog project, the goal here was to create something that was more comprehensive than a pokepaste to store all of the sets. 
 
 RANKINGS OF POKEMON:
@@ -22,14 +20,14 @@ Class Triangle:
 If we lived in a world where there was no RNG hax and lure sets/Counter teaming. There would be a class triangle laid out a little bit like this:
 
 Power > TECHNICAL > Fast
-Fast > POWER > Technical
-Technical > FAST > Power
+| Fast > POWER > Technical
+| Technical > FAST > Power
 
 Makes a lot of sense if we use examples. Mimikyu (Technical) can beat Donphan because of its (Technical Ability: Disguise) which makes Donphan unable to kill it fast enough before Mimikyu kills it. Mimikyu is also immune to sneaky Donphan moves such as Counter and Endeavor because of its typing. However Metegross-Mega (Power) can kill Mimikyu (Technical) because of its typing and access to Bullet Punch which can one shot Mimikyu from 50%.
 
 Metegross-Mega > MIMIKYU > Donphan
-Donphan > METEGROSS-MEGA > Mimikyu
-Mimikyu > DONPHAN > Mega Metegross
+| Donphan > METEGROSS-MEGA > Mimikyu
+| Mimikyu > DONPHAN > Mega Metegross
 
 That's how the class triangle would work in general.
 
