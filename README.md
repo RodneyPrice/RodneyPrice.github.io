@@ -31,7 +31,7 @@ Mimikyu > DONPHAN > Mega Metegross
 
 That's how the class triangle would work in general.
 
-Viability Rankings in 1v1: Classified by overall sets
+
 
 
 
