@@ -6,25 +6,25 @@ body {
     color: black
 }
 
-.Teambuilder {
+.Teambuilder { 
     float: left;
-    width: 300px;
+    width: 600px;
     height: 578px;
-    border: 3px solid #73AD21;
+    border: 0px solid #73AD21;
     padding: 0px;
     overflow: scroll;
-    background-color: lightgoldenrodyellow;
+    background-color: transparent;
     text-align: left;
 }
 
-.listblock ul li a {
+ul li a {
     padding: 5px 30px 5px 10px;
     display: block;
 }
 
 a:link, a:visited{
-    background-color: lightgray;
-    color: white;
+    background-color: transparent;
+    color: black;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
@@ -32,11 +32,11 @@ a:link, a:visited{
 }
 
 a:active {
-    background-color: lightgray;
+    background-color: transparent;
 }
 
 a.hover {
-    background-color: green;
+    background-color: lightgray;
 }
 
 .PkmnIcon {
@@ -50,12 +50,10 @@ a.hover {
 }
 
 .PkmnClass {
-    font-family: monospace;
+    font-family: sans-serif;
     white-space: nowrap;
 }
 
-.PkmnInform {
-    white-space: nowrap;
-    background-color: lightgray;
-    border-color: lightgoldenrodyellow;
+.PkmnName {
+    font-family: sans-serif
 }
