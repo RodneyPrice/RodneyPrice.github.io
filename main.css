@@ -11,10 +11,6 @@ body {
     display: block;
 }
 
-.listblock ul li a:hover {
-    background: transparent url('../img/basket.png') no-repeat 3px 170px;
-}
-
 a:link, a:visited{
     background-color: lightgray;
     color: white;
@@ -28,7 +24,14 @@ a:hover, a:active {
     background-color: lightgray;
 }
 
-.GyaradosIcon{
+.GyaradosIcon {
     height: "20px";
     width: "60px";
+}
+
+#Gyarados-Mega {
+    background-color: lightgray;
+    height: "100%";
+    width: "100%";
+    
 }
