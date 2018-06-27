@@ -1,5 +1,5 @@
 /*jslint vars: true, plusplus: true, devel: true, nomen: true, regexp: true, indent: 4, maxerr: 50 */
-/*global window, FileReader, File */
+/*global window, FileReader, File, document */
 
 function readSets() {
     "use strict";
@@ -7,6 +7,7 @@ function readSets() {
     var stuff = new File([], "all1v1sets.txt")
     var rawSets = reader.readAsText(stuff.slice(0));
     window.console.log(rawSets, stuff);
+    window.console.log(document.getElementById("setData").src)
 }
 
 readSets();
