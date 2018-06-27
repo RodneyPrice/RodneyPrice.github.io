@@ -17,13 +17,15 @@ body {
     text-align: left;
 }
 
-li a {
+ul li a {
     padding: 5px 30px 5px 10px;
     display: block;
+    font-family: sans-serif;
 }
 
 ul {
     list-style-type: none;
+    margin: 0; padding: 0;
 }
 
 a:link, a:visited{
@@ -43,21 +45,31 @@ a:hover {
     background-color: lightgray;
 }
 
+.col{
+    float: left;
+}
+
 .PkmnIcon {
     height: "20px";
     width: "60px";
+    white-space: nowrap;
 }
     
 .PkmnRanking {
-    font-family: sans-serif;
-    text-align: left
-}
-
-.PkmnClass {
-    font-family: sans-serif;
+    text-align: left;
     white-space: nowrap;
 }
 
-.PkmnName {
-    font-family: sans-serif
+.PkmnClass {
+    white-space: nowrap;
+    text-align: center;
 }
+
+.PkmnName {
+    height: 15px;
+    width: 170px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+
