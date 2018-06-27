@@ -23,8 +23,8 @@ body {
 }
 
 a:link, a:visited{
-    background-color: lightgray;
-    color: white;
+    background-color: transparent;
+    color: black;
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
@@ -32,11 +32,11 @@ a:link, a:visited{
 }
 
 a:active {
-    background-color: lightgray;
+    background-color: transparent;
 }
 
 a.hover {
-    background-color: green;
+    background-color: lightgray;
 }
 
 .PkmnIcon {
@@ -50,7 +50,7 @@ a.hover {
 }
 
 .PkmnClass {
-    font-family: monospace;
+    font-family: sans-serif;
     white-space: nowrap;
 }
 
@@ -58,4 +58,8 @@ a.hover {
     white-space: nowrap;
     background-color: lightgray;
     border-color: lightgoldenrodyellow;
+}
+
+.PkmnName {
+    font-family: sans-serif
 }
