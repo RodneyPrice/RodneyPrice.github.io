@@ -15,8 +15,8 @@ body {
     background: transparent url('../img/basket.png') no-repeat 3px 170px;
 }
 
-a:link, a:visited .Gyarados_Icon {
-    background-color: #f44336;
+a:link, a:visited{
+    background-color: lightgray;
     color: white;
     padding: 14px 25px;
     text-align: center; 
@@ -25,5 +25,10 @@ a:link, a:visited .Gyarados_Icon {
 }
 
 a:hover, a:active {
-    background-color: red;
+    background-color: lightgray;
+}
+
+.GyaradosIcon{
+    height: "20px";
+    width: "60px";
 }
