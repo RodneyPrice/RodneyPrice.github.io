@@ -24,6 +24,7 @@ li a {
 
 ul {
     list-style-type: none;
+    margin: 0; padding: 0;
 }
 
 a:link, a:visited{
