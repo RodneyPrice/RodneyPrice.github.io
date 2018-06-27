@@ -8,12 +8,12 @@ body {
 
 .Teambuilder {
     float: left;
-    width: 300px;
+    width: 600px;
     height: 578px;
-    border: 3px solid #73AD21;
+    border: 0px solid #73AD21;
     padding: 0px;
     overflow: scroll;
-    background-color: lightgoldenrodyellow;
+    background-color: transparent;
     text-align: left;
 }
 
