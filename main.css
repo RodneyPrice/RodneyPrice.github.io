@@ -6,7 +6,7 @@ body {
     color: black
 }
 
-.Teambuilder {
+.Teambuilder { 
     float: left;
     width: 600px;
     height: 578px;
@@ -17,7 +17,7 @@ body {
     text-align: left;
 }
 
-.listblock ul li a {
+ul li a {
     padding: 5px 30px 5px 10px;
     display: block;
 }
@@ -52,12 +52,6 @@ a.hover {
 .PkmnClass {
     font-family: sans-serif;
     white-space: nowrap;
-}
-
-.PkmnInform {
-    white-space: nowrap;
-    background-color: lightgray;
-    border-color: lightgoldenrodyellow;
 }
 
 .PkmnName {
