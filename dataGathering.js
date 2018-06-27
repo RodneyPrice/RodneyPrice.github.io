@@ -17,6 +17,13 @@ function readSets() {
                         moves: list.splice(-4).map(s => s.substr(2))
                         }
              })
+    var ul = document.getElementById("sets")
+    for (var x in pksets){
+        var set = pksets[x]
+        var li = document.createElement("li")
+        li.innerHTML = set["name"]
+        ul.appendChild(li)
+    }
     window.console.log(pksets)
 }
 
