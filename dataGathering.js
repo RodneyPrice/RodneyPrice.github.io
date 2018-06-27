@@ -8,7 +8,7 @@ function readSets() {
     pksets = pokemonSets.split("\n\n").map(set => set.split('\n'))
         .map(list => 
              {
-                return {name: list[0].split(" @ ")[0],
+                return {name: list[0].split(" @ ")[0].split(" (")[0],
                         item: list[0].split(" @ ")[1],
                         ability: list[1].split(/ /)[1],
                         EVs: list[2].split(": ")[1].split(" / ").map(s => s.split(" "))
@@ -22,11 +22,12 @@ function readSets() {
     for (let x in pokemon){
         name = pokemon[x]
         var li = ul.find("li:first").clone(true)
-        console.log(li.find(".PkmnName").get(0))
         li.find(".PkmnName").get(0).innerHTML = name
+        console.log("PokemonIcons/" + name.toLowerCase() + ".png")
+        li.find(".PkmnIcon").find('img').get(0).src = "PokemonIcons/" + name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
         ul.append(li)
     }
-    window.console.log(pksets, pokemon)
+    //window.console.log(pksets, pokemon)
 }
 
 readSets();
