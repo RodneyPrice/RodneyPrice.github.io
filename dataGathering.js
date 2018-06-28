@@ -40,7 +40,7 @@ function updateRanking(text){
 
 function encapsulateSets(pokemonSets){
     if (!(pokemonSets)) return ;
-    pksets = pokemonSets.split("\n\n").map(set => set.split('\n'))
+    pksets = pokemonSets.replace(/\r/g,'').split(/\n{2}/).map(set => set.split('\n'))
         .map(list => 
             {return {name: list[0].split(" @ ")[0].split(" (")[0],
                      item: list[0].split(" @ ")[1],
