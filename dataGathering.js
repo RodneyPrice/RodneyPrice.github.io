@@ -19,16 +19,17 @@ function readViability(){
 }
 
 function updateRanking(text){
-    text = text.split("\n\n\n")
+    text = text.replace(/\r/g,'').split(/\n{3}/)
     text.map(block => {
-      block = block.split("\n")
-      var rank = block[0].split(" ")[0], pokemon = block.slice(1).map(s => s.replace(/ /, ""))
+      block = block.split(/\n/)
+      var rank = block[0].split(" ")[0], pokemon = block.slice(1).map(s => s.replace(/ /, ''))
       for (var i in pokemon){
           var query;
           if (pokemon[i] == "Deoxys-S") query = "#Deoxys-Speed"
           else if (pokemon[i] == "Vivillon") query = tmp = "#Vivillon-Marine"
           else if (pokemon[i] == "Meowstic-M") query = "#Meowstic"
           else query = "#" + pokemon[i].replace(":", "").replace(" ", "-")
+          console.log(query)
           tmp = $(query).find(".PkmnRanking").get(0)
           if (tmp != undefined) tmp.innerHTML = rank
           else console.log(query, tmp)
