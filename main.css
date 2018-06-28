@@ -50,23 +50,25 @@ a:hover {
 }
 
 .PkmnIcon {
-    height: "20px";
-    width: "60px";
+    height: 5px;
+    width: 60px;
     white-space: nowrap;
 }
     
 .PkmnRanking {
+    height: 5px;
     text-align: left;
     white-space: nowrap;
 }
 
 .PkmnClass {
+    height: 5px;
     white-space: nowrap;
     text-align: center;
 }
 
 .PkmnName {
-    height: 15px;
+    height: 5px;
     width: 170px;
     white-space: nowrap;
     text-align: left;
