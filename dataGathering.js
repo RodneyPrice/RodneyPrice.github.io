@@ -6,12 +6,14 @@ function readInSets() {
     fetch("1v1Sets.txt").then(response =>{
         if (response.ok){
             response.text().then(encapsulateSets)
+            
+            fetch("viability.txt").then(response => {
+                if (response.ok){
+                    response.text().then(updateRanking)
+                } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
+            })
+            
         } else console.log("Could not access 1v1 sets " + response.status + ": " + response.statusText)
-    })
-    fetch("viability.txt").then(response => {
-        if (response.ok){
-            response.text().then(updateRanking)
-        } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
     })
 }
 
