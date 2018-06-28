@@ -37,7 +37,6 @@ function updateRanking(text){
     })
     
 }
-
 function encapsulateSets(pokemonSets){
     if (!(pokemonSets)) return ;
     pksets = pokemonSets.replace(/\r/g,'').split(/\n{2}/).map(set => set.split('\n'))
@@ -56,11 +55,12 @@ function encapsulateSets(pokemonSets){
     var ul = $("ul"), template = ul.find("li:first")
     template.get(0).style.display = "block"
     template.find(".PkmnRanking").get(0).innerHTML = "U"
-    //template.find(".PkmnClass").bind('dblclick', function(){$(this).attr('contenteditable', true)})
+    template.find(".PkmnClass").bind('dblclick', function(){$(this).attr('contenteditable', true)})
     for (let x in pokemon){
         name = pokemon[x]
         var li = template.clone(true)
         li.get(0).id = name.replace(":", "").replace(" ", "-")
+        li.find(".PkmnLink").get(0).href = ("#/" + name)
         li.find(".PkmnName").get(0).innerHTML = name
         li.find(".PkmnIcon").find('img').get(0).src = "PokemonIcons/" + name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
         ul.append(li)

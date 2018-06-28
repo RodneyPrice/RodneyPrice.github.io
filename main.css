@@ -12,6 +12,7 @@ body {
     height: 500px;
     border: 0px solid #73AD21;
     padding: 0px;
+    padding-top: 0%;
     overflow: scroll;
     background-color: transparent;
     text-align: left;
@@ -73,5 +74,3 @@ a:hover {
     white-space: nowrap;
     text-align: left;
 }
-
-
