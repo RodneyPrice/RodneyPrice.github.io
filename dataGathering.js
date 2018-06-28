@@ -49,6 +49,7 @@ function encapsulateSets(pokemonSets){
     pokemon = Object.keys(pksets.reduce((li, set) => (li[set["name"]] = 0, li), {}))
     var ul = $("ul"), template = ul.find("li:first")
     template.get(0).style.display = "block"
+    template.find(".PkmnRanking").get(0).innerHTML = "U"
     //template.find(".PkmnClass").bind('dblclick', function(){$(this).attr('contenteditable', true)})
     for (let x in pokemon){
         name = pokemon[x]
