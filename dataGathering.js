@@ -6,14 +6,15 @@ function readInSets() {
     fetch("1v1Sets.txt").then(response =>{
         if (response.ok){
             response.text().then(encapsulateSets)
-            
-            fetch("viability.txt").then(response => {
-                if (response.ok){
-                    response.text().then(updateRanking)
-                } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
-            })
-            
         } else console.log("Could not access 1v1 sets " + response.status + ": " + response.statusText)
+    })
+}
+
+function readViability(){
+    fetch("viability.txt").then(response => {
+        if (response.ok){
+            response.text().then(updateRanking)
+        } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
     })
 }
 
@@ -23,12 +24,14 @@ function updateRanking(text){
       block = block.split("\n")
       var rank = block[0].split(" ")[0], pokemon = block.slice(1).map(s => s.replace(/ /, ""))
       for (var i in pokemon){
-          if (pokemon[i] == "Deoxys-S") tmp = $("#Deoxys-Speed").find(".PkmnRanking").get(0)
-          else if (pokemon[i] == "Vivillon") tmp = $("#Vivillon-Marine").find(".PkmnRanking").get(0)
-          else if (pokemon[i] == "Meowstic-M") temp = $("#Meowstic").find(".PkmnRanking").get(0)
-          else tmp = $("#" + pokemon[i].replace(":", "").replace(" ", "-")).find(".PkmnRanking").get(0)
+          var query;
+          if (pokemon[i] == "Deoxys-S") query = "#Deoxys-Speed"
+          else if (pokemon[i] == "Vivillon") query = tmp = "#Vivillon-Marine"
+          else if (pokemon[i] == "Meowstic-M") query = "#Meowstic"
+          else query = "#" + pokemon[i].replace(":", "").replace(" ", "-")
+          tmp = $(query).find(".PkmnRanking").get(0)
           if (tmp != undefined) tmp.innerHTML = rank
-          else console.log("#" + pokemon[i].replace(":", "").replace(" ", "-"), tmp)
+          else console.log(query, tmp)
       }
     })
     
@@ -62,6 +65,7 @@ function encapsulateSets(pokemonSets){
         ul.append(li)
     }
     ul.find("li:first").get(0).style.display = "none"
+    readViability()
 }
 
 readInSets();
