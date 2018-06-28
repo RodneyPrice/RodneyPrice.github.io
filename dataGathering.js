@@ -47,10 +47,12 @@ function encapsulateSets(pokemonSets){
              })
     
     pokemon = Object.keys(pksets.reduce((li, set) => (li[set["name"]] = 0, li), {}))
-    var ul = $("ul")
+    var ul = $("ul"), template = ul.find("li:first")
+    template.get(0).style.display = "block"
+    //template.find(".PkmnClass").bind('dblclick', function(){$(this).attr('contenteditable', true)})
     for (let x in pokemon){
         name = pokemon[x]
-        var li = ul.find("li:first").clone(true)
+        var li = template.clone(true)
         li.get(0).id = name.replace(":", "").replace(" ", "-")
         li.find(".PkmnName").get(0).innerHTML = name
         li.find(".PkmnIcon").find('img').get(0).src = "PokemonIcons/" + name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
