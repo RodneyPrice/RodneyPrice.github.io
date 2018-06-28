@@ -10,7 +10,7 @@ function readInSets() {
     })
     fetch("viability.txt").then(response => {
         if (response.ok){
-            response.text().then(updateRanking)
+            //response.text().then(updateRanking)
         } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
     })
 }
