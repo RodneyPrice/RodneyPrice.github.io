@@ -9,13 +9,15 @@ body {
 .Catalog { 
     float: left;
     width: 400px;
-    height: 500px;
     border: 0px solid #73AD21;
     padding: 0px;
     padding-top: 0%;
-    overflow: scroll;
+    overflow: auto;
     background-color: transparent;
     text-align: left;
+    height: auto !important;
+    height: 600px;
+}
 }
 
 ul li a {
@@ -80,10 +82,18 @@ a:hover {
     border: 5px solid #73AD21;
     background-color: transparent;
     width: 380px;
+    height: 50px;
 }
 
-.Sort: {
-    background-color: #f8f8f8;
-    width: 80px;
+.Rank: {
+    background-color: #4CAF50; /* Green */
     border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
