@@ -1,7 +1,7 @@
-body {
-    background-image:url(Images/YveltalBackgroundimg.png);
+body{
+    background:url(Images/YveltalBackgroundimg.png);
     background-repeat:no-repeat;
-    background-size:cover;
+    background-size: cover;
 }
 
 .PkmnSorter {
@@ -102,3 +102,5 @@ a:hover {
     text-align: center;
     color: white;
 }
+
+
