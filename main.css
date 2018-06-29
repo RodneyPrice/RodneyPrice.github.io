@@ -45,37 +45,40 @@ a:active {
 
 a:hover {
     background-color: lightgray;
+    height: 15px;
 }
 
 .col{
     float: left;
 }
 
-.PkmnIcon {
-    height: 5px;
-    width: 60px;
-    white-space: nowrap;
-}
-    
 .PkmnRanking {
     height: 5px;
     width: 20px;
     display: block;
     text-align: left;
     white-space: nowrap;
+    color: #999;
+    font-size: 9pt;
+}
+
+.PkmnIcon {
+    height: 10px;
+    width: 60px;
+    white-space: nowrap;
+}
+    
+.PkmnName {
+    height: 5px;
+    width: 170px;
+    white-space: nowrap;
+    text-align: left;
 }
 
 .PkmnClass {
     height: 5px;
     white-space: nowrap;
     text-align: center;
-}
-
-.PkmnName {
-    height: 5px;
-    width: 170px;
-    white-space: nowrap;
-    text-align: left;
 }
 
 .PkmnSorter {
