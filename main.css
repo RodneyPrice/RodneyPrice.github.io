@@ -59,6 +59,7 @@ a:active {
 
 a:hover {
     background-color: lightgray;
+    height: 15px;
 }
 
 .col{
@@ -72,6 +73,8 @@ a:hover {
     display: block;
     text-align: left;
     white-space: nowrap;
+    color: #999;
+    font-size: 9pt;
 }
 
 .PkmnIcon {
@@ -81,7 +84,7 @@ a:hover {
     padding-right: 3%;
     white-space: nowrap;
 }
-
+    
 .PkmnName {
     height: 5px;
     width: 45%;
