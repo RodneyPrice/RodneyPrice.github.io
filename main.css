@@ -12,10 +12,9 @@ body {
     border: 0px solid #73AD21;
     padding: 0px;
     padding-top: 0%;
-    overflow: auto;
+    overflow: scroll;
     background-color: transparent;
     text-align: left;
-    height: auto !important;
     height: 600px;
 }
 }
@@ -60,6 +59,8 @@ a:hover {
     
 .PkmnRanking {
     height: 5px;
+    width: 10px;
+    display: block;
     text-align: left;
     white-space: nowrap;
 }
@@ -86,7 +87,7 @@ a:hover {
 }
 
 .Rank: {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50; 
     border: none;
     color: white;
     padding: 15px 32px;
