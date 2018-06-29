@@ -9,13 +9,14 @@ body {
 .Catalog { 
     float: left;
     width: 400px;
-    height: 500px;
     border: 0px solid #73AD21;
     padding: 0px;
     padding-top: 0%;
     overflow: scroll;
     background-color: transparent;
     text-align: left;
+    height: 600px;
+}
 }
 
 ul li a {
@@ -58,6 +59,8 @@ a:hover {
     
 .PkmnRanking {
     height: 5px;
+    width: 20px;
+    display: block;
     text-align: left;
     white-space: nowrap;
 }
@@ -73,4 +76,25 @@ a:hover {
     width: 170px;
     white-space: nowrap;
     text-align: left;
+}
+
+.PkmnSorter {
+    padding: 2px 2px;
+    border: 5px solid #73AD21;
+    background-color: transparent;
+    width: 380px;
+    height: 50px;
+}
+
+.Rank: {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
