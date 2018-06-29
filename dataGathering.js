@@ -19,7 +19,7 @@ function readViability(){
 }
 
 function updateRanking(text){
-    text = text.split(/\n{3}|\r\n{3}/)
+    text = text.split(/\n{3}|\r\n\r\n\r\n/)
     text.map(block => {
       block = block.split(/\n/)
       var rank = block[0].split(" ")[0], pokemonToRank = block.slice(1).map(s => s.replace(/^ /, ''))
