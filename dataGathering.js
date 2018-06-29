@@ -77,7 +77,7 @@ idFromName = name => name.replace(/[^\w]/g, '')
 function generateHTMLList(){
     var ul = $("ul"), template = ul.find("li:first")
     template.get(0).style.display = "block"
-    template.find(".PkmnRanking").get(0).innerHTML = ''
+    template.find(".PkmnRanking").get(0).innerHTML = 'U'
     template.find(".PkmnClass").bind('dblclick', function(){$(this).attr('contenteditable', true)})
     for (let name in pokemon){
         var li = template.clone(true)
