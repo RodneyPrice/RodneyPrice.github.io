@@ -19,9 +19,9 @@ function readViability(){
 }
 
 function updateRanking(text){
-    text = text.split(/\n{3}|\r\n{3}/)
+    text = text.split(/\n{3}|(\r\n){3}/)
     text.map(block => {
-      block = block.split(/\n/)
+      block = block.split(/\r\n|\n/)
       var rank = block[0].split(" ")[0], pokemonToRank = block.slice(1).map(s => s.replace(/^ /, ''))
       for (var i in pokemonToRank){
           var name;
@@ -75,7 +75,7 @@ function buildPokemon(set){
 idFromName = name => name.replace(/[^\w]/g, '')
 
 function generateHTMLList(){
-    var ul = $("ul"), template = ul.find("li:first")
+    var ul = $("ul"), template = ul.find("li:nth-child(1)")
     template.get(0).style.display = "block"
     template.find(".PkmnRanking").get(0).innerHTML = 'U'
     template.find(".PkmnClass").bind('dblclick', function(){$(this).attr('contenteditable', true)})
@@ -88,7 +88,7 @@ function generateHTMLList(){
             name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
         ul.append(li)
     }
-    ul.find("li:first").get(0).style.display = "none"
+    ul.find("li:nth-child(1)").get(0).style.display = "none"
 }
 
 readInSets();
