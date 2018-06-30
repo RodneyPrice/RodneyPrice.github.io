@@ -1,0 +1,125 @@
+//Speed Tiers:
+
+46: Bulky Pyukumuku
+76: Bulky Sableye-Mega
+86: Bulky Slowbro-Mega
+92: Bulky Avalugg
+94: Bulky Aggron-Mega
+96: Bulky Slowbro-Mega
+126: Bulky Golem
+126: Bulky Golem-Alola
+136: Bulky Azumarill
+136: Bulky Chansey
+136: Bulky Diancie
+136: Bulky Donphan
+140: Bulky Aegislash
+146: Bulky Machamp
+156: Bulky Aegislash
+156: Bulky Primarina
+156: Bulky Bewear
+158: Bulky Celesteela
+166: Bulky Umbreon
+166: Bulky Magearna
+166: Bulky Magnezone
+166: Bulky Sylveon
+176: Bulky Volcanion
+186: Bulky Tapu Bulu
+186: Bulky Heracross-Mega
+186: Bulky Scizor-Mega
+186: Fast Golem
+190: Bulky Blastoise-Mega
+190: Bulky Heatran
+194: Bulky Necrozma
+194: Bulky Buzzwole
+196: Bulky Dragonite
+196: Bulky Togekiss
+196: Bulky Venusaur-Mega
+198: Bulky Magnezone
+206: Bulky Tapu Fini
+207: Fast Crustle
+216: Bulky Porygon-Z
+216: Bulky Deoxys-Defense
+216: Bulky Meloetta
+219: Fast Minior-Core
+220: Bulky Gyarados-Mega
+226: Bulky Tapu Lele
+237: Bulky Manaphy
+244: Bulky Gliscor
+256: Bulky Diancie-Mega
+256: Bulky Metagross-Mega
+259: Fast Dragonite
+259: Fast Togekiss
+259: Fast Gardevoir
+261: Fast Gyarados-Mega
+262: Fast Breloom
+262: Fast Metagross
+268: Bulky Whimsicott
+269: Fast Sawk
+273: Fast Smeargle
+278: Fast Heatran
+279: Fast Porygon-Z
+284: Fast Togekiss
+289: Bulky Talonflame
+289: Fast Kyurem-Black
+297: Fast Genesect
+299: Fast Charizard-Mega-X
+299: Fast Gardevoir-Mega
+306: Fast Deoxys-Defense
+306: Fast Meloetta
+306: Fast Porygon-Z
+306: Fast Pre-Mega Lucario
+317: Fast Kyurem-Black
+326: Fast Genesect
+326: Fast Mimikyu
+328: Fast Charizard-Mega-X
+328: Fast Charizard-Mega-Y
+328: Fast Jirachi
+328: Fast Victini
+331: Fast Landorus
+333: Fast Garchomp
+335: Fast Nihilego
+339: Fast Pinsir-Mega
+339: Fast Minior-Core
+343: Fast Greninja
+346: Fast Keldeo
+348: Fast Alolan-Ninetales
+348: Fast Kartana
+350: Fast Gallade-Mega
+350: Fast Metagross-Mega
+350: Fast Pre-Mega Gengar
+351: Fast Talonflame
+355: Fast Lucario-Mega
+359: Fast Tapu Koko
+377: Fast Greninja
+386: Fast Talonflame
+388: +1 Dragon Dance Dragonite
+388: Scarf Togekiss
+391: +1 Dragon Dance Gyarados-Mega
+394: Fast Gengar-Mega
+394: Fast Tapu Koko
+403: Scarf Sawk
+414: Shell Smash Crustle
+417: Scarf Heatran
+418: Scarf Porygon-Z
+426: Scarf Togekiss
+433: Scarf Kyurem-Black
+433: Scarf Tapu Lele
+438: Fast Alakazam-Mega
+438: Shell Smash Minior-Meteor
+441: Fast Pheromosa
+445: Scarf Genesect
+448: +1 Dragon Dance Charizard-Mega-X
+459: Scarf Deoxys-Defense
+459: Scarf Porygon-Z
+475: Scarf Kartana
+475: Scarf Kyurem-Black
+489: Scarf Genesect
+492: +1 Dragon Dance Charizard-Mega-X
+492: Scarf Jirachi
+492: Scarf Victini
+496: Scarf Landorus
+499: Scarf Garchomp
+514: Scarf Greninja
+522: Scarf Kartana
+565: Scarf Greninja
+678: +2 Shell Smash Minior-Core
