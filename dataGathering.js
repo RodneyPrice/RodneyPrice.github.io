@@ -3,7 +3,7 @@
 var pokemon, pokesets;
 
 function readInSets() {
-    fetch("1v1Sets.txt").then(response =>{
+    fetch("1v1data/1v1Sets.txt").then(response =>{
         if (response.ok){
             response.text().then(encapsulateSets)
         } else console.log("Could not access 1v1 sets " + response.status + ": " + response.statusText)
