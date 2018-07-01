@@ -1,4 +1,4 @@
-﻿//All Classifications of 1v1 Pokemon
+﻿//All Classifications of 1v1 Pokemon {Contributors: VG Jungle (My man), }  
 Index: (WC) = Want Classification from others
 
 S Tier
@@ -13,10 +13,10 @@ Metegross-Mega: Power
 Mimikyu: Technical
 
 A Tier
-Landorus-T: Fast (WC)
+Landorus-T: Power
 Tapu-Lele: Fast 
-Snorlax: Technical (WC)
-Zygarde-C: Standard (WC)
+Snorlax: Technical 
+Zygarde-C: Technical 
 Lopunny-Mega: Fast 
 Magnezone: Fast
 Porygon-Z: Fast 
@@ -24,8 +24,8 @@ Slowbro-Mega: Technical
 Venusaur-Mega: Technical
 
 B+ Tier
-Aegislash: Fast (WC)
-Altaria-Mega: (WC I haven't really used this pokemon or seen it that much)
+Aegislash: Fast 
+Altaria-Mega: Technical
 Aggron-Mega: Technical
 Donphan: Fast
 Gardevoir-Mega: Fast
@@ -35,56 +35,56 @@ Greninja: Fast
 Jumpluff: Technical 
 Meloetta: Fast
 Naganadel: Fast
-Pinsir-Mega: Power (WC)
-Primarina: Fast (WC)
-Tapu Fini: Fast (WC same as Primarina)
+Pinsir-Mega: Fast
+Primarina: Technical
+Tapu Fini: Technical 
 
 B Tier
-Blaziken: (WC)
+Blaziken: Power
 Chansey: Technical
 Ferrothorn: Technical
-Garchomp: Fast (WC)
-Heatran: Technical (WC)
-Heracross-Mega: Power (WC)
-Kartana: Fast (WC)
+Garchomp: Fast 
+Heatran: Technical 
+Heracross-Mega: Power 
+Kartana: Fast 
 Mawile-Mega: Power
 Mew: Standard 
-Necrozma: Standard (QC)
+Necrozma: Standard  
 Sableye-Mega: Technical
 Sawk: Fast
 Tyranitar-Mega: Power
 
-B- Tier:
+B- Tier
 Blastoise-Mega: Technical (WC)
 Blissey: Technical
 Buzzwole: (WC)
 Celesteela: Technical
 Crustle: Fast (WC)
 Diancie-Mega: Power
-Durant: Fast (Wtf this is B- Rank, UOP!!!)
+Durant: Fast (WC)
 Gengar-Mega: Technical
 Hoopa-Unbound: Fast
 Kommo-o: Power (WC)
-Swampert-Mega: (WC)
-Togekiss: Fast (WC)
+Swampert-Mega: Technical
+Togekiss: Technical
 Volcorona: Technical 
 
 C+ Rank:
 Archeops: Fast
-Avalugg: Technical (WC)
-Camerupt-Mega: Technical (WC)
+Avalugg: Technical  
+Camerupt-Mega: Technical  
 Carracosta: Fast
 Deoxys-Speed: Technical
-Excadrill: Power (WC)
-Gallade-Mega: (WC)
-Latios: Technical (WC)
+Excadrill: Standard 
+Gallade-Mega: Fast
+Latios:  Fast
 Lucario-Mega: Power
 Marowak-Alola: Power
 Medicham-Mega: Power
 Pheromosa: Fast
 Porygon2: Technical
 Scizor-Mega: Power
-Tapu-Bulu: Power (WC)
+Tapu-Bulu:  Fast (WC)
 Terrakion: Fast (WC)
 Umbreon: Technical
 Victini: Fast
@@ -103,17 +103,18 @@ Suicune: Technical
 
 D Rank:
 Abomasnow-Mega: Power (WC)
-Alakazam-Mega: Technical (WC)
-Aron: Technical (WC)
+Alakazam-Mega: Fast 
+Aron: Fast
 Azumarill: Power
-Barbaracle: Fast (WC)
-Breloom: Technical (WC)
-Clefable: Technical (WC)
+Barbaracle: Power
+Breloom: Technical 
+Clefable: Technical 
 Dusclops: Technical
-Manetric-Mega: Fast (WC)
+Manetric-Mega: Fast
 Sceptile-Mega: Fast
 Slaking: Fast
 Smeargle: Technical
-Stunfisk: (WC)
+Stunfisk: Technical
 Type:Null: Technical
-Volcanion: (WC)
+Volcanion: Technical
+

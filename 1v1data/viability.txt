@@ -45,12 +45,14 @@ B+ Rank
 
 B Rank
  Blaziken
+ Blaziken-Mega
  Chansey
  Ferrothorn
  Garchomp
  Heatran
  Heracross-Mega
  Kartana
+ Kyurem
  Mawile-Mega
  Mew
  Necrozma
@@ -138,6 +140,7 @@ D Rank
  Dusclops
  Manectric-Mega
  Sceptile
+ Sceptile-Mega
  Slaking
  Smeargle
  Stunfisk
