@@ -1,6 +1,8 @@
 # RodneyPrice.github.io
 
-~(WIP)
+This started as a little side project of mine, building frameworks for certain pokemon in order to help others teambuild. @Mace Master and a couple others liked what I was doing so I felt compelled to continue the project. The idea morphed and morphed into something bigger. It morphed into this github website. 
+
+Goal: Display more information about a specific set that the sets pokepaste was unable to do because of the way pokepaste was designed.
 
 ## Getting Started
 
@@ -35,10 +37,17 @@ There's no need to have a special IDE or html runner or some sort. Simply click 
 
 * [Brackets] (http://brackets.io/) - HTML/CSS Javascript IDE
 * [Github Pages] (https://pages.github.com/) - Deployment and server
+* [JQurey] (https://jquery.com/) - Teambuilder Code
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+There are many ways to contribute to this project.
+
+1. Sending us extra data to use in our API
+2. Asking questions or giving feedback on our frontend and backend parts of our website.
+3. Giving us suggestion on how to add to our website. 
+4. Adding extra code that could help optimize our website.
+5. Etc (There are so many ways to contribute and help us)
 
 ## Authors
 **Somemenhave** - Initial Idea and startup - [RodneyPrice] (https://github.com/RodneyPrice)
