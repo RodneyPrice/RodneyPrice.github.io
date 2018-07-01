@@ -3,7 +3,7 @@
 var pokemon, pokesets;
 
 function readInSets() {
-    fetch("1v1data/1v1Sets.txt").then(response =>{
+    fetch("/1v1data/1v1Sets.txt").then(response =>{
         if (response.ok){
             response.text().then(encapsulateSets)
         } else console.log("Could not access 1v1 sets " + response.status + ": " + response.statusText)
@@ -11,7 +11,7 @@ function readInSets() {
 }
 
 function readViability(){
-    fetch("viability.txt").then(response => {
+    fetch("/1v1data/viability.txt").then(response => {
         if (response.ok){
             response.text().then(text => updateRanking(text))
         } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
@@ -84,7 +84,7 @@ function generateHTMLList(){
         li.get(0).id = idFromName(name)
         li.find(".PkmnLink").get(0).href = ("#/" + name)
         li.find(".PkmnName").get(0).innerHTML = name
-        li.find(".PkmnIcon").find('img').get(0).src = "PokemonIcons/" + 
+        li.find(".PkmnIcon").find('img').get(0).src = "../PokemonIcons/" + 
             name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
         ul.append(li)
     }
