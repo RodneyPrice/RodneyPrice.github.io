@@ -92,3 +92,4 @@ function generateHTMLList(){
 }
 
 readInSets();
+console.log(5/6)
