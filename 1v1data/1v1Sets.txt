@@ -1,3 +1,4 @@
+(Bulky 234 Speed)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 248 HP / 44 Atk / 40 Def / 32 SpD / 144 Spe
@@ -7,6 +8,7 @@ Adamant Nature
 - Outrage / Crunch
 - Earthquake / Crunch / Bounce / Taunt
 
+(Bulky 223 Speed)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 248 HP / 88 Atk / 40 Def / 32 SpD / 100 Spe
@@ -16,6 +18,7 @@ Adamant Nature
 - Outrage / Crunch
 - Substitute
 
+(Bulky 238 Speed)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 248 HP / 28 Atk / 40 Def / 32 SpD / 160 Spe
@@ -25,6 +28,7 @@ Adamant Nature
 - Earthquake
 - Taunt / Bounce
 
+(Bulky 252 Speed)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 184 HP / 68 Atk / 40 Def / 216 Spe
@@ -34,6 +38,7 @@ Adamant Nature
 - Earthquake
 - Crunch / Outrage
 
+(Bulky 252 Speed)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 216 HP / 32 Atk / 44 SpD / 216 Spe
@@ -43,6 +48,7 @@ Adamant Nature
 - Earthquake
 - Crunch / Outrage
 
+(Bulky 238 Speed+SubTypeA)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 184 HP / 92 Atk / 72 Def / 160 Spe
@@ -52,6 +58,7 @@ Adamant Nature
 - Earthquake
 - Substitute
 
+(Bulky 238 Speed+SubTypeB)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 216 HP / 88 Atk / 44 SpD / 160 Spe
@@ -61,6 +68,7 @@ Adamant Nature
 - Earthquake
 - Substitute
 
+(Defensive 211 Speed+Iron-Header)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 144 HP / 64 Atk / 248 Def / 52 Spe
@@ -70,6 +78,7 @@ Adamant Nature
 - Iron Head
 - Crunch / Taunt / Bounce / Substitute
 
+(Bulky Ice Fanger)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 240 HP / 80 Atk / 44 SpD / 144 Spe
@@ -79,6 +88,7 @@ Adamant Nature
 - Taunt
 - Ice Fang
 
+(Dragon-Dancing + Water Stab Offense)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -88,6 +98,7 @@ Jolly Nature
 - Crunch / Bounce / Earthquake / Iron Head / Taunt
 - Outrage / Bounce / Earthquake / Iron Head / Taunt
 
+(Defensive Stone Edger)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 136 HP / 228 Def / 144 Spe
@@ -97,6 +108,7 @@ Impish Nature
 - Earthquake / Taunt / Crunch / Outrage / Bounce
 - Waterfall / Taunt / Crunch / Outrage / Bounce
 
+(Specially Bulky Utility)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 200 HP / 64 Atk / 188 SpD / 56 Spe
@@ -106,6 +118,7 @@ Adamant Nature
 - Taunt
 - Substitute
 
+(Cursed-Up Payback)
 Gyarados-Mega @ Gyaradosite
 Ability: Moxie
 EVs: 248 HP / 12 Atk / 248 Def
@@ -115,6 +128,7 @@ Adamant Nature
 - Ice Fang
 - Payback
 
+(Special Attacking Unorthodox Defense Breaker)
 Gyarados-Mega @ Gyaradosite
 Ability: Intimidate
 EVs: 124 HP / 232 Def / 152 SpA
@@ -125,6 +139,7 @@ IVs: 0 Atk
 - Ice Beam
 - Fire Blast
 
+(Modest-Defense)
 Charizard-Mega-Y @ Charizardite Y
 Ability: Blaze
 EVs: 152 Def / 148 SpA / 208 Spe
@@ -134,6 +149,7 @@ Modest Nature
 - Hidden Power [Electric] / Air Slash
 - Solar Beam
 
+(Modest-Max Defense)
 Charizard-Mega-Y @ Charizardite Y
 Ability: Blaze
 EVs: 240 HP / 252 Def / 16 SpA
@@ -143,6 +159,7 @@ Modest Nature
 - Hidden Power [Electric] / Air Slash
 - Solar Beam
 
+(Lax-Rock Tomber)
 Charizard-Mega-Y @ Charizardite Y
 Ability: Blaze
 EVs: 240 HP / 252 Def / 16 SpA
@@ -152,6 +169,7 @@ Lax Nature
 - Earthquake / Flame Charge / Air Slash / Solar Beam
 - Blast Burn / Overheat
 
+(Belly-Drummer)
 Charizard-Mega-X @ Charizardite X
 Ability: Blaze
 EVs: 80 HP / 240 Atk / 28 Def / 160 Spe
@@ -161,6 +179,7 @@ Jolly Nature
 - Outrage
 - Flame Charge
 
+(Utility-Set_up)
 Charizard-Mega-X @ Charizardite X
 Ability: Blaze
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -170,6 +189,7 @@ Jolly Nature
 - Flare Blitz
 - Substitute / Flame Charge / Belly Drum / Swords Dance / Counter / Will-O-Wisp
 
+(Will-O-Wisping Offense Disruption)
 Charizard-Mega-X @ Charizardite X
 Ability: Blaze
 EVs: 232 HP / 232 SpD / 44 Spe
@@ -179,6 +199,7 @@ Jolly Nature
 - Flare Blitz
 - Will-O-Wisp
 
+(Thunder Punchin' Specially Defensive)
 Charizard-Mega-X @ Charizardite X
 Ability: Blaze
 EVs: 136 HP / 132 Atk / 232 SpD / 8 Spe
@@ -188,6 +209,7 @@ Adamant Nature
 - Flare Blitz
 - Flame Charge / Dragon Dance
 
+(Curse Rooster Will-o-Wisp)
 Charizard-Mega-X @ Charizardite X
 Ability: Solar Power / Blaze
 EVs: 168 HP / 12 Atk / 188 Def / 140 Spe
@@ -197,6 +219,7 @@ Impish Nature
 - Flare Blitz
 - Curse / Flame Charge
 
+(Sp.Atk Dragon Nuker)
 Dragonite @ Dragonium Z
 Ability: Multiscale
 EVs: 224 HP / 8 Def / 208 SpA / 68 SpD
@@ -206,6 +229,7 @@ Quiet Nature
 - Flamethrower / Ice Beam / Thunderbolt
 - Bulldoze / Ice Beam / Thunderbolt
 
+(Supersonic Sky Striker)
 Dragonite @ Flyinium Z
 Ability: Multiscale
 EVs: 112 HP / 132 Atk / 112 Def / 152 Spe
@@ -215,6 +239,7 @@ Adamant Nature
 - Bulldoze / Surf / Earthquake / Fire Punch / Ice Beam
 - Extreme Speed / Fire Punch / Ice Beam
 
+(Electric Nuker)
 Dragonite @ Electrium Z
 Ability: Multiscale
 EVs: 112 HP / 240 SpA / 156 Spe
@@ -224,6 +249,7 @@ Modest Nature
 - Ice Beam / Draco Meteor
 - Earthquake / Draco Meteor / Flamethrower
 
+(Choice Banded Rage)
 Dragonite @ Choice Band
 Ability: Multiscale
 EVs: 112 HP / 216 Atk / 180 Spe
@@ -233,6 +259,7 @@ Adamant Nature
 - Stone Edge / Fire Punch / Thunder Punch / Ice Punch / Fly / Iron Head
 - Superpower / Fire Punch / Thunder Punch / Ice Punch / Fly / Iron Head
 
+(Scarf Special Attacker Type: A)
 Dragonite @ Choice Scarf
 Ability: Multiscale
 EVs: 20 Def / 252 SpA / 236 Spe
@@ -243,6 +270,7 @@ IVs: 0 Atk
 - Ice Beam
 - Fire Blast
 
+(Scarf Special Attacker Type: B)
 Dragonite @ Choice Scarf
 Ability: Multiscale
 EVs: 24 Atk / 248 SpA / 236 Spe
@@ -252,6 +280,7 @@ Naive Nature
 - Superpower
 - Fire Blast
 
+(Pain-Split Fleur Cannon)
 Magearna @ Fairium Z
 Ability: Soul-Heart
 EVs: 248 HP / 20 SpA / 24 SpD / 216 Spe
@@ -262,6 +291,7 @@ IVs: 0 Atk
 - Pain Split
 - Fleur Cannon
 
+(Choice Specs Rage)
 Magearna @ Choice Specs
 Ability: Soul-Heart
 EVs: 240 HP / 248 SpA / 20 SpD
@@ -272,6 +302,7 @@ IVs: 0 Atk
 - Thunderbolt
 - Hidden Power [Fire]
 
+(UnGrounded Magnet Rise)
 Magearna @ Air Balloon
 Ability: Soul-Heart
 EVs: 232 HP / 240 SpA / 36 SpD
@@ -282,6 +313,7 @@ IVs: 0 Atk
 - Magnet Rise
 - Thunderbolt / Hidden Power [Fire] / Calm Mind / Flash Cannon
 
+(Bulky Arm Punch)
 Metagross-Mega @ Metagrossite
 Ability: Clear Body
 EVs: 252 HP / 80 Atk / 28 Def / 20 SpD / 128 Spe
@@ -291,6 +323,7 @@ Impish Nature
 - Bullet Punch / Zen Headbutt /  Earthquake / Magnet Rise / Substitute / Ice Punch
 - Meteor Mash
 
+(Bulky Punch + More Atk)
 Metagross-Mega @ Metagrossite
 Ability: Clear Body
 EVs: 252 HP / 136 Atk / 28 Def / 20 SpD / 72 Spe
@@ -300,6 +333,7 @@ Impish Nature
 - Hammer Arm / Bullet Punch
 - Zen Headbutt / Bullet Punch / Earthquake / Magnet Rise / Substitute / Ice Punch
 
+(Specially Bulky Utility)
 Metagross-Mega @ Metagrossite
 Ability: Clear Body
 EVs: 148 HP / 36 Atk / 252 SpD / 72 Spe
@@ -309,6 +343,7 @@ Adamant Nature
 - Magnet Rise / Bullet Punch / Zen Headbutt / Substitute / Ice Punch
 - Hammer Arm / Bullet Punch / Zen Headbutt / Thunder Punch / Substitute / Ice Punch
 
+(Standard Max Atk)
 Metagross-Mega @ Metagrossite
 Ability: Clear Body
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -318,6 +353,7 @@ Jolly Nature
 - Substitute
 - Earthquake
 
+(SD Offense)
 Mimikyu @ Mimikium Z
 Ability: Disguise
 EVs: 240 HP / 128 Atk / 96 Def / 44 Spe
@@ -327,6 +363,7 @@ Jolly Nature
 - Shadow Sneak
 - Will-O-Wisp / Substitute
 
+(CurseKyu)
 Mimikyu @ Ghostium Z
 Ability: Disguise
 EVs: 248 HP / 8 Def / 252 Spe
@@ -337,6 +374,7 @@ IVs: 0 Atk
 - Substitute
 - Protect
 
+(Bulk-Up Offense)
 Mimikyu @ Mimikium Z
 Ability: Disguise
 EVs: 240 HP / 20 Atk / 248 Def
@@ -346,6 +384,7 @@ Adamant Nature
 - Play Rough
 - Shadow Sneak
 
+(Mini-Curse Offense)
 Mimikyu @ Mimikium Z
 Ability: Disguise
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -355,6 +394,7 @@ Jolly Nature
 - Substitute
 - Protect
 
+(Ghostium Killer)
 Mimikyu @ Ghostium Z
 Ability: Disguise
 EVs: 252 HP / 252 Atk / 4 Def
@@ -364,6 +404,7 @@ Adamant Nature
 - Shadow Sneak
 - Will-O-Wisp / Play Rough / Substitute
 
+(Bulky Ground Nuke)
 Landorus-Therian (M) @ Groundium Z
 Ability: Intimidate
 EVs: 248 HP / 80 Def / 112 SpD / 68 Spe
@@ -373,6 +414,7 @@ Adamant Nature
 - Bulk Up
 - Substitute / Smack Down
 
+(Bulky Fly Nuke+)
 Landorus-Therian (M) @ Flyinium Z
 Ability: Intimidate
 EVs: 216 HP / 160 Atk / 64 Def / 68 Spe
@@ -382,6 +424,7 @@ Adamant Nature
 - Substitute / Rock Tomb
 - Bulk Up
 
+(Defensively Bulky Fly Nuke)
 Landorus-Therian (M) @ Flyinium Z
 Ability: Intimidate
 EVs: 108 Atk / 224 Def / 176 Spe
@@ -391,6 +434,7 @@ Jolly Nature
 - Swords Dance
 - Substitute
 
+(Choiced Scarf)
 Landorus-Therian (M) @ Choice Scarf
 Ability: Intimidate
 EVs: 232 Atk / 28 Def / 248 Spe
@@ -400,6 +444,7 @@ Jolly Nature
 - Rock Slide
 - Fly
 
+(Standard Psychic Killer)
 Tapu Lele @ Psychium Z
 Ability: Psychic Surge
 EVs: 248 HP / 88 Def / 28 SpD / 144 Spe
@@ -410,6 +455,7 @@ IVs: 0 Atk
 - Reflect
 - Taunt / Substitute / Calm Mind / Hidden Power [Fire]
 
+(Choice Scarf Coverage)
 Tapu Lele @ Choice Scarf
 Ability: Psychic Surge
 EVs: 4 Def / 252 SpA / 252 Spe
@@ -420,6 +466,7 @@ IVs: 0 Atk
 - Thunderbolt
 - Hidden Power [Fire]
 
+(Defensive Choice Specs)
 Tapu Lele @ Choice Specs
 Ability: Psychic Surge
 EVs: 8 HP / 224 Def / 132 SpA / 144 Spe
@@ -430,6 +477,7 @@ IVs: 0 Atk
 - Moonblast
 - Hidden Power [Fire]
 
+(Yawnlax)
 Snorlax @ Normalium Z
 Ability: Thick Fat
 EVs: 252 Atk / 252 Def / 4 SpD
@@ -439,6 +487,7 @@ Adamant Nature
 - Belly Drum
 - Double-Edge
 
+(Curse Glutton)
 Snorlax @ Figy Berry
 Ability: Gluttony
 EVs: 112 HP / 36 Atk / 252 Def / 108 SpD
@@ -448,6 +497,7 @@ Impish Nature
 - Chip Away / Return / Double-Edge
 - Amnesia
 
+(Coil Dragon Nuke)
 Zygarde-Complete @ Dragonium Z
 Ability: Power Construct
 EVs: 240 HP / 248 Def / 20 SpD
@@ -457,6 +507,7 @@ Impish Nature
 - Thousand Arrows
 - Extreme Speed / Rest / Substitute
 
+(Utility Ground Nuke)
 Zygarde-Complete @ Groundium Z
 Ability: Power Construct
 EVs: 96 HP / 160 Atk / 192 Def / 60 Spe
@@ -466,6 +517,7 @@ Impish Nature
 - Substitute / Rest
 - Rock Slide
 
+(Coil Ground Nuke)
 Zygarde-Complete @ Groundium Z
 Ability: Power Construct
 EVs: 240 HP / 20 Atk / 248 Def
@@ -475,6 +527,7 @@ Impish Nature
 - Rest
 - Rock Slide
 
+(Stat Reset Coil)
 Zygarde-Complete @ Poisonium Z
 Ability: Power Construct
 EVs: 16 HP / 96 Atk / 252 Def / 144 Spe
@@ -484,6 +537,7 @@ Jolly Nature
 - Thousand Arrows
 - Substitute
 
+(Specially Defensive Rest Coil)
 Zygarde-Complete @ Groundium Z
 Ability: Power Construct
 EVs: 144 HP / 112 Def / 252 SpD
@@ -493,6 +547,7 @@ Careful Nature
 - Coil
 - Rest
 
+(Fake-Out Giga Impact)
 Lopunny-Mega @ Lopunnite
 Ability: Limber
 EVs: 40 HP / 252 Atk / 216 Spe
@@ -502,6 +557,7 @@ Jolly Nature
 - High Jump Kick
 - Ice Punch / Thunder Punch / Encore / Substitute
 
+(Sub-Sub Flail)
 Lopunny-Mega @ Lopunnite
 Ability: Limber
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -511,6 +567,7 @@ Jolly Nature
 - Flail
 - Substitute
 
+(Standard Gigavolt)
 Magnezone @ Electrium Z
 Ability: Sturdy
 EVs: 80 HP / 252 SpA / 176 Spe
@@ -521,6 +578,7 @@ IVs: 0 Atk
 - Electroweb / Protect / Flash Cannon / Hidden Power [Ice]
 - Mirror Coat / Protect / Flash Cannon / Hidden Power [Ice]
 
+(Speedy Gigavolt)
 Magnezone @ Electrium Z
 Ability: Sturdy
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -531,6 +589,7 @@ IVs: 0 Atk
 - Flash Cannon / Protect / Hidden Power [Ice]
 - Mirror Coat / Protect / Hidden Power [Ice]
 
+(Magnet Rise Gigavolt)
 Magnezone @ Electrium Z
 Ability: Sturdy
 EVs: 80 HP / 252 SpA / 176 Spe
@@ -541,6 +600,7 @@ IVs: 0 Atk
 - Flash Cannon
 - Electroweb / Metal Sound / Mirror Coat / Protect
 
+(Choice Specs)
 Magnezone @ Choice Specs
 Ability: Sturdy
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -551,6 +611,7 @@ IVs: 0 Atk
 - Flash Cannon
 - Hyper Beam / Electroweb / Mirror Coat
 
+(Air Balloon Anti Gyara)
 Magnezone @ Air Balloon
 Ability: Sturdy
 EVs: 80 HP / 252 SpA / 176 Spe
@@ -561,6 +622,7 @@ IVs: 0 Atk
 - Thunderbolt
 - Hidden Power [Ice]
 
+(CorkScrew Crash)
 Magnezone @ Steelium Z
 Ability: Sturdy
 EVs: 80 HP / 204 SpA / 224 Spe
@@ -571,6 +633,7 @@ IVs: 0 Atk
 - Electroweb / Protect / Mirror Coat
 - Metal Sound / Protect / Mirror Coat
 
+(Standard Scarf Hyper Beam)
 Porygon-Z @ Choice Scarf
 Ability: Adaptability
 EVs: 32 HP / 4 Def / 252 SpA / 220 Spe
@@ -581,6 +644,7 @@ IVs: 0 Atk
 - Ice Beam
 - Hidden Power [Fire]
 
+(Standard Specs Hyper Beam)
 Porygon-Z @ Choice Specs
 Ability: Adaptability
 EVs: 212 Def / 120 SpA / 176 Spe
@@ -591,6 +655,7 @@ IVs: 0 Atk
 - Hidden Power [Fire]
 - Blizzard
 
+(Z-Conversion Defense)
 Porygon-Z @ Normalium Z
 Ability: Adaptability
 EVs: 184 HP / 252 Def / 72 Spe
@@ -601,6 +666,7 @@ IVs: 0 Atk
 - Recover
 - Nasty Plot
 
+(Z-Conversion Ghost)
 Porygon-Z @ Normalium Z
 Ability: Adaptability
 EVs: 56 HP / 236 Def / 216 Spe
@@ -611,6 +677,7 @@ IVs: 0 Atk
 - Conversion
 - Nasty Plot / Recover
 
+(Standard Iron-Amnesia Stall)
 Slowbro-Mega @ Slowbronite
 Ability: Oblivious
 EVs: 252 HP / 108 Def / 148 SpD
@@ -621,6 +688,7 @@ IVs: 0 Atk
 - Amnesia
 - Ice Beam / Scald / Flamethrower / Rest / Foul Play
 
+(CM Max Defense Stall)
 Slowbro-Mega @ Slowbronite
 Ability: Oblivious
 EVs: 252 HP / 252 Def / 4 SpD
@@ -631,6 +699,7 @@ IVs: 0 Atk
 - Calm Mind
 - Scald / Psyshock
 
+(Amnesia-Bro)
 Slowbro-Mega @ Slowbronite
 Ability: Oblivious
 EVs: 252 HP / 4 Def / 252 SpD
@@ -641,6 +710,7 @@ IVs: 0 Atk
 - Iron Defense / Flamethrower / Ice Beam / Foul Play
 - Scald / Flamethrower / Ice Beam / Foul Play
 
+(Sleep Powder Offense)
 Venusaur-Mega @ Venusaurite
 Ability: Chlorophyll
 EVs: 216 HP / 92 SpA / 44 SpD / 156 Spe
@@ -650,6 +720,7 @@ Modest Nature
 - Grass Knot / Frenzy Plant
 - Hidden Power [Fire] / Earthquake / Hidden Power [Ice]
 
+(Charm Stall)
 Venusaur-Mega @ Venusaurite
 Ability: Chlorophyll
 EVs: 248 HP / 136 Def / 124 SpD
@@ -660,6 +731,7 @@ IVs: 0 Atk
 - Sludge Bomb
 - Amnesia / Leech Seed / Rest / Hidden Power [Fire]
 
+(Standard Ghostium Nuke)
 Aegislash @ Ghostium Z
 Ability: Stance Change
 EVs: 248 HP / 12 Atk / 24 Def / 188 SpA / 36 SpD
@@ -670,6 +742,7 @@ IVs: 0 Spe
 - Shadow Sneak
 - King's Shield / Metal Sound
 
+(Metal Sound Ghostium Nuke)
 Aegislash @ Ghostium Z
 Ability: Stance Change
 EVs: 248 HP / 12 Atk / 24 Def / 196 SpA / 28 SpD
@@ -680,6 +753,7 @@ IVs: 0 Spe
 - Shadow Sneak
 - King's Shield
 
+(Magnet Rise Ghostium Nuke)
 Aegislash @ Ghostium Z
 Ability: Stance Change
 EVs: 136 HP / 116 SpA / 4 SpD / 252 Spe
@@ -689,6 +763,7 @@ Modest Nature
 - Magnet Rise
 - King's Shield
 
+(Physical SD Ghost Nuke)
 Aegislash @ Ghostium Z
 Ability: Stance Change
 EVs: 248 HP / 212 Atk / 36 SpD / 12 Spe
@@ -698,6 +773,7 @@ Adamant Nature
 - Shadow Sneak
 - Sacred Sword
 
+(Head Smash Choice Scarf)
 Aegislash @ Choice Scarf
 Ability: Stance Change
 EVs: 252 Atk / 28 SpA / 228 Spe
@@ -707,6 +783,7 @@ Naive Nature
 - Iron Head
 - Hidden Power [Ice] / Hidden Power [Fire]
 
+(Cotton Guard Special Attacker)
 Altaria-Mega @ Altarianite
 Ability: Cloud Nine
 EVs: 248 HP / 252 Def / 8 Spe
@@ -716,6 +793,7 @@ Bold Nature
 - Roost / Fire Blast / Rest / Confide / Bulldoze
 - Substitute / Fire Blast / Rest / Confide / Bulldoze
 
+(D-Dance Giga Impact)
 Altaria-Mega @ Altarianite
 Ability: Cloud Nine
 EVs: 104 HP / 96 Atk / 104 Def / 204 Spe
@@ -725,6 +803,7 @@ Jolly Nature
 - Return / Bulldoze
 - Substitute / Bulldoze
 
+(Special Attacking Fairy Nuke)
 Altaria-Mega @ Altarianite
 Ability: Cloud Nine
 EVs: 104 HP / 104 Def / 204 SpA / 96 Spe
@@ -734,6 +813,7 @@ Modest Nature
 - Fire Blast
 - Sing / Bulldoze
 
+(Offensive Curse)
 Aggron-Mega @ Aggronite
 Ability: Sturdy
 EVs: 252 HP / 216 Atk / 40 Def
@@ -743,6 +823,7 @@ Adamant Nature
 - Curse
 - Rest
 
+(Standard Metal Burst)
 Aggron-Mega @ Aggronite
 Ability: Sturdy
 EVs: 252 HP / 252 Atk / 4 Def
@@ -753,6 +834,7 @@ IVs: 0 SpD / 0 Spe
 - Heavy Slam
 - Curse / Avalanche / Taunt
 
+(Standard Ground Nuke)
 Donphan @ Groundium Z
 Ability: Sturdy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -762,6 +844,7 @@ Jolly / Adamant Nature
 - Rock Tomb / Head Smash
 - Counter / Head Smash
 
+(Endeavor Shard)
 Donphan @ Groundium Z
 Ability: Sturdy
 EVs: 252 Atk / 80 Def / 176 Spe
@@ -772,6 +855,7 @@ IVs: 15 HP
 - Substitute
 - Endeavor
 
+(Choice Band Coverage)
 Donphan @ Choice Band
 Ability: Sturdy
 EVs: 252 Atk / 80 Def / 176 Spe
@@ -781,6 +865,7 @@ Adamant Nature
 - Earthquake
 - Rock Slide / Fire Fang / Gunk Shot
 
+(Head Smash Nuke)
 Donphan @ Rockium Z
 Ability: Sturdy
 EVs: 248 HP / 252 Atk / 8 Def
@@ -791,6 +876,7 @@ IVs: 22 Spe
 - Ice Shard
 - Counter
 
+(Standard Hyper Beam Nuke)
 Gardevoir-Mega @ Gardevoirite
 Ability: Trace
 EVs: 56 Def / 236 SpA / 216 Spe
@@ -801,6 +887,7 @@ IVs: 0 Atk
 - Will-O-Wisp / Calm Mind
 - Psyshock
 
+(Calm Mind Bulky Will-o-Wisp)
 Gardevoir-Mega @ Gardevoirite
 Ability: Trace
 EVs: 240 HP / 12 Def / 24 SpA / 232 Spe
@@ -811,6 +898,7 @@ IVs: 0 Atk
 - Hyper Voice / Uproar
 - Calm Mind
 
+(Icy Wind + Standard)
 Gardevoir-Mega @ Gardevoirite
 Ability: Trace
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -821,6 +909,7 @@ IVs: 0 Atk
 - Hyper Beam
 - Calm Mind
 
+(Icy Wind Will-o-Wisp Bulky)
 Gardevoir-Mega @ Gardevoirite
 Ability: Trace
 EVs: 240 HP / 16 Def / 20 SpA / 232 Spe
@@ -831,6 +920,7 @@ IVs: 0 Atk
 - Hyper Beam
 - Will-O-Wisp
 
+(Defensive Choice Specs)
 Genesect @ Choice Specs
 Ability: Download
 EVs: 236 HP / 240 Def / 32 SpA
@@ -841,6 +931,7 @@ IVs: 0 Atk
 - Flamethrower
 - Ice Beam
 
+(Scarf Offense)
 Genesect @ Choice Scarf
 Ability: Download
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -851,6 +942,7 @@ IVs: 0 Atk
 - Ice Beam / Bug Buzz / Flash Cannon
 - Hyper Beam / Bug Buzz / Flash Cannon
 
+(Standard Ground Nuke)
 Golem @ Groundium Z
 Ability: Sturdy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -860,6 +952,7 @@ Adamant Nature
 - Sucker Punch
 - Counter / Rock Tomb / Protect
 
+(Standard Rock Nuke)
 Golem @ Rockium Z
 Ability: Sturdy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -869,6 +962,7 @@ Adamant Nature
 - Sucker Punch
 - Counter / Rock Tomb / Rock Blast / Protect
 
+(Standard Life Orb Protean)
 Greninja @ Life Orb
 Ability: Protean
 EVs: 4 Atk / 252 SpA / 252 Spe
@@ -878,6 +972,7 @@ Hasty Nature
 - Gunk Shot / Hydro Cannon / Hidden Power [Fire] / Substitute / Dark Pulse / Hidden Power [Flying] / Hidden Power [Ground] / Rock Slide / Dig / Hidden Power [Steel]
 - Shadow Sneak / Hydro Cannon / Hidden Power [Fire] / Substitute / Dark Pulse / Hidden Power [Flying] / Hidden Power [Ground] / Rock Slide / Dig / Hidden Power [Steel]
 
+(Choice Specs Protean)
 Greninja @ Choice Specs
 Ability: Protean
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -888,6 +983,7 @@ IVs: 0 Atk
 - Ice Beam / Hidden Power [Fire] / Hidden Power [Ground] / Extrasensory / Hidden Power [Steel] / Hidden Power [Rock]
 - Grass Knot / Hidden Power [Fire] / Hidden Power [Ground] / Extrasensory / Hidden Power [Steel] / Hidden Power [Rock]
 
+(Defensive Waterium-Z Nuke)
 Greninja @ Waterium Z
 Ability: Torrent
 EVs: 208 Def / 124 SpA / 176 Spe
@@ -898,6 +994,7 @@ IVs: 0 Atk
 - Water Shuriken
 - Taunt
 
+(Scarf Gren)
 Greninja @ Choice Scarf
 Ability: Protean
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -907,6 +1004,7 @@ Modest Nature
 - Hydro Cannon
 - Hidden Power [Ground] / Rock Slide / Hidden Power [Electric] / Dig / Gunk Shot
 
+(Standard Sleep Pluff)
 Jumpluff @ Wide Lens / BrightPowder
 Ability: Infiltrator
 EVs: 48 HP / 208 Def / 252 Spe
@@ -917,6 +1015,7 @@ IVs: 0 Atk
 - Substitute
 - Protect
 
+(Defensively Bulky Standard Hyper Beam Nuke)
 Meloetta @ Normalium Z
 Ability: Serene Grace
 EVs: 252 HP / 108 Def / 88 SpA / 44 SpD / 16 Spe
@@ -927,6 +1026,7 @@ IVs: 0 Atk
 - Laser Focus / Uproar / Hidden Power [Fire]
 - Psyshock / Uproar / Hidden Power [Fire]
 
+(Choice Specs 2 Stabs) 
 Meloetta @ Choice Specs
 Ability: Serene Grace
 EVs: 252 HP / 108 Def / 88 SpA / 44 SpD / 16 Spe
@@ -937,6 +1037,7 @@ IVs: 1 Atk
 - Focus Blast / Psyshock / Shadow Ball / Thunderbolt
 - Hidden Power [Fire] / Psyshock / Shadow Ball / Thunderbolt
 
+(Specs Naganadel)
 Naganadel @ Choice Specs
 Ability: Beast Boost
 EVs: 12 HP / 240 SpA / 8 SpD / 248 Spe
@@ -947,6 +1048,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Thunderbolt
 
+(Scarf Naganadel)
 Naganadel @ Choice Scarf
 Ability: Beast Boost
 EVs: 252 SpA / 36 SpD / 220 Spe
@@ -957,6 +1059,7 @@ IVs: 0 Atk
 - Flamethrower
 - Hidden Power [Ice]
 
+(Poison Nuke)
 Naganadel @ Poisonium Z
 Ability: Beast Boost
 EVs: 12 HP / 240 SpA / 8 SpD / 248 Spe
@@ -967,6 +1070,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Nasty Plot
 
+(Dragon Nuke)
 Naganadel @ Dragonium Z
 Ability: Beast Boost
 EVs: 12 HP / 148 SpA / 100 SpD / 248 Spe
@@ -977,6 +1081,7 @@ IVs: 0 Atk
 - Nasty Plot
 - Flamethrower
 
+(Specially Bulky Choice Specs)
 Naganadel @ Choice Specs
 Ability: Beast Boost
 EVs: 12 HP / 212 SpA / 100 SpD / 184 Spe
@@ -987,6 +1092,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Air Slash
 
+(Standard Giga Impact Nuke)
 Pinsir-Mega @ Pinsirite
 Ability: Hyper Cutter
 EVs: 56 HP / 212 Atk / 240 Spe
@@ -996,6 +1102,7 @@ Jolly Nature
 - Earthquake
 - Substitute
 
+(Sub-Sub Flail)
 Pinsir-Mega @ Pinsirite
 Ability: Hyper Cutter
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1005,6 +1112,7 @@ Jolly Nature
 - Return / Quick Attack / Double Hit / Rock Tomb
 - Swords Dance
 
+(Earthquake Giga Impact)
 Pinsir-Mega @ Pinsirite
 Ability: Mold Breaker
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1014,6 +1122,7 @@ Jolly Nature
 - Bulk Up
 - Substitute / Close Combat / Toxic
 
+(Standard Water Nuke)
 Primarina @ Waterium Z
 Ability: Torrent
 EVs: 240 HP / 252 Def / 16 SpA
@@ -1023,6 +1132,7 @@ Bold Nature
 - Moonblast
 - Encore / Sparkling Aria / Hydro Pump
 
+(Defensive Choice Specs Coverage)
 Primarina @ Choice Specs
 Ability: Torrent
 EVs: 40 HP / 244 Def / 224 SpA
@@ -1033,6 +1143,7 @@ IVs: 0 Atk
 - Sparkling Aria
 - Hidden Power [Fire]
 
+(Defensive Signature Nuke)
 Primarina @ Primarium Z
 Ability: Torrent
 EVs: 240 HP / 252 Def / 16 SpA
@@ -1042,6 +1153,7 @@ Bold Nature
 - Moonblast
 - Encore
 
+(Bulky Rain Dance Water Nuke)
 Tapu Fini @ Waterium Z
 Ability: Misty Surge
 EVs: 224 HP / 60 Def / 168 SpA / 56 Spe
@@ -1052,6 +1164,7 @@ IVs: 0 Atk
 - Calm Mind
 - Moonblast
 
+(Defensive Choice Specs) 
 Tapu Fini @ Choice Specs
 Ability: Misty Surge
 EVs: 216 HP / 168 Def / 68 SpA / 56 Spe
@@ -1062,6 +1175,7 @@ IVs: 0 Atk
 - Hidden Power [Fire]
 - Ice Beam / Hydro Pump / Grass Knot
 
+(75% Nature Madness Brine)
 Tapu Fini @ Tapunium Z
 Ability: Misty Surge
 EVs: 248 HP / 108 Def / 32 SpA / 4 SpD / 116 Spe
@@ -1072,33 +1186,7 @@ IVs: 0 Atk
 - Brine
 - Moonblast
 
-Blaziken-Mega @ Blazikenite
-Ability: Blaze
-EVs: 232 Atk / 36 SpA / 240 Spe
-Naive Nature
-- Protect
-- High Jump Kick
-- Blast Burn
-- Rock Slide
-
-Blaziken @ Life Orb
-Ability: Blaze
-EVs: 248 Atk / 84 SpA / 176 Spe
-Naive Nature
-- Protect
-- High Jump Kick
-- Blast Burn
-- Rock Slide
-
-Blaziken-Mega @ Blazikenite
-Ability: Speed Boost
-EVs: 244 Atk / 32 Def / 232 Spe
-Adamant Nature
-- Bulk Up
-- Thunder Punch
-- High Jump Kick
-- Flare Blitz / Protect
-
+(Sub-Sub Reversal)
 Blaziken @ Blazikenite / Life Orb / Liechi Berry
 Ability: Speed Boost
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1108,6 +1196,7 @@ Jolly Nature
 - Reversal
 - Flare Blitz
 
+(Defensive Firium Nuke)
 Blaziken @ Firium Z
 Ability: Speed Boost
 EVs: 176 HP / 228 Def / 104 Spe
@@ -1117,6 +1206,37 @@ Lax Nature
 - Will-O-Wisp
 - High Jump Kick
 
+(Stronger M-Fire-Nuke)
+Blaziken @ Life Orb
+Ability: Blaze
+EVs: 248 Atk / 84 SpA / 176 Spe
+Naive Nature
+- Protect
+- High Jump Kick
+- Blast Burn
+- Rock Slide
+
+(M-Fire Nuke + Anti Zard)
+Blaziken-Mega @ Blazikenite
+Ability: Blaze
+EVs: 232 Atk / 36 SpA / 240 Spe
+Naive Nature
+- Protect
+- High Jump Kick
+- Blast Burn
+- Rock Slide
+
+(Bulk Up Offense)
+Blaziken-Mega @ Blazikenite
+Ability: Speed Boost
+EVs: 244 Atk / 32 Def / 232 Spe
+Adamant Nature
+- Bulk Up
+- Thunder Punch
+- High Jump Kick
+- Flare Blitz / Protect
+
+(Charm Stall)
 Chansey (F) @ Eviolite
 Ability: Serene Grace
 EVs: 248 HP / 252 Def / 8 SpD
@@ -1127,6 +1247,7 @@ IVs: 0 Atk
 - Seismic Toss / Psywave / Flamethrower / Ice Beam
 - Toxic / Counter / Flamethrower / Ice Beam
 
+(Grassium Nuke)
 Ferrothorn @ Grassium Z
 Ability: Iron Barbs
 EVs: 248 HP / 80 Atk / 180 Def
@@ -1137,6 +1258,7 @@ IVs: 0 Spe
 - Protect
 - Gyro Ball
 
+(Bulky Leech Stall)
 Ferrothorn @ Leftovers
 Ability: Iron Barbs
 EVs: 248 HP / 252 Def / 8 SpD
@@ -1147,6 +1269,7 @@ IVs: 0 Spe
 - Gyro Ball / Power Whip
 - Rest
 
+(Standard Ground Nuke)
 Garchomp @ Groundium Z
 Ability: Rough Skin
 EVs: 4 HP / 252 Atk / 252 Spe
@@ -1156,6 +1279,7 @@ Jolly Nature
 - Substitute
 - Rock Tomb / Outrage
 
+(Choice Band Stab)
 Garchomp @ Choice Band
 Ability: Rough Skin
 EVs: 4 HP / 252 Atk / 252 Spe
@@ -1165,6 +1289,7 @@ Jolly Nature
 - Fire Fang
 - Poison Jab
 
+(Scarf Chomp)
 Garchomp @ Choice Scarf
 Ability: Rough Skin
 EVs: 252 Atk / 16 SpA / 240 Spe
@@ -1174,6 +1299,7 @@ Naive Nature
 - Fire Blast
 - Hidden Power [Ice] / Poison Jab
 
+(Rudimentory Dragon Nuke)
 Garchomp @ Dragonium Z
 Ability: Rough Skin
 EVs: 248 Atk / 4 Def / 16 SpA / 240 Spe
@@ -1183,6 +1309,7 @@ Naive Nature
 - Fire Blast
 - Swords Dance / Rock Tomb
 
+(Rock Tomb Overheat)
 Heatran @ Air Balloon
 Ability: Flash Fire
 EVs: 120 HP / 252 SpA / 136 Spe
@@ -1192,6 +1319,7 @@ Modest Nature
 - Flash Cannon / Taunt / Hidden Power [Ice]
 - Earth Power / Taunt / Hidden Power [Ice]
 
+(Z-Solar Beam Surprise)
 Heatran @ Grassium Z
 Ability: Flash Fire
 EVs: 72 HP / 252 SpA / 184 Spe
@@ -1201,6 +1329,7 @@ Modest Nature
 - Earth Power
 - Overheat
 
+(Bulky Offense)
 Heracross-Mega @ Heracronite
 Ability: Guts
 EVs: 208 HP / 4 Atk / 132 SpD / 164 Spe
@@ -1210,6 +1339,7 @@ Adamant Nature
 - Rock Blast / Arm Thrust
 - Bullet Seed / Arm Thrust
 
+(Banded Giga Impact)
 Kartana @ Choice Band
 Ability: Beast Boost
 EVs: 4 HP / 252 Atk / 252 Spe
@@ -1219,6 +1349,7 @@ Jolly Nature
 - Smart Strike / Night Slash / Aerial Ace
 - Sacred Sword
 
+(Grass Nuker)
 Kartana @ Grassium Z
 Ability: Beast Boost
 EVs: 128 HP / 132 Atk / 248 Spe
@@ -1228,6 +1359,7 @@ Jolly Nature
 - Leaf Blade
 - Sacred Sword
 
+(Scarf Kart)
 Kartana @ Choice Scarf
 Ability: Beast Boost
 EVs: 4 HP / 252 Atk / 252 Spe
@@ -1237,6 +1369,7 @@ Adamant Nature
 - Smart Strike
 - Sacred Sword
 
+(Iron Defense Type: A)
 Kartana @ Grassium Z
 Ability: Beast Boost
 EVs: 216 HP / 8 Atk / 252 SpD / 32 Spe
@@ -1246,6 +1379,7 @@ Careful Nature
 - Sacred Sword
 - Leaf Blade
 
+(Iron Defense Type: B)
 Kartana @ Grassium Z
 Ability: Beast Boost
 EVs: 8 HP / 252 Atk / 248 Spe
@@ -1255,16 +1389,7 @@ Jolly Nature
 - Substitute
 - Leaf Blade
 
-Kyurem @ Normalium Z
-Ability: Pressure
-EVs: 224 HP / 136 Def / 148 SpD
-Bold Nature
-IVs: 0 Atk
-- Noble Roar
-- Roost
-- Ice Beam
-- Earth Power / Rest
-
+(Standard Play Rough)
 Mawile-Mega @ Mawilite
 Ability: Hyper Cutter
 EVs: 240 HP / 252 Atk / 4 SpD / 12 Spe
@@ -1274,6 +1399,7 @@ Adamant Nature
 - Swords Dance / Fire Fang / Thunder Punch / Iron Head
 - Substitute / Fire Fang / Thunder Punch / Iron Head
 
+(Specially Defensive Metal Burst)
 Mawile-Mega @ Mawilite
 Ability: Intimidate
 EVs: 248 HP / 16 Atk / 244 SpD
@@ -1283,6 +1409,7 @@ Careful Nature
 - Sucker Punch
 - Substitute / Thunder Punch / Fire Fang
 
+(Z-Psychic Fake-Out)
 Mew @ Mewnium Z
 Ability: Synchronize
 EVs: 240 HP / 252 SpA / 4 SpD / 12 Spe
@@ -1292,6 +1419,7 @@ Modest Nature
 - Overheat
 - Nasty Plot
 
+(Stall Mew)
 Mew @ Kee Berry
 Ability: Synchronize
 EVs: 252 HP / 36 Def / 220 Spe
@@ -1302,6 +1430,7 @@ IVs: 0 Atk
 - Roost
 - Amnesia / Seismic Toss
 
+(Bulky Choice Specs Rage)
 Necrozma @ Choice Specs
 Ability: Prism Armor
 EVs: 252 HP / 16 Def / 228 SpA / 12 SpD
@@ -1312,6 +1441,7 @@ IVs: 0 Atk
 - Heat Wave
 - Hidden Power [Ice] / Signal Beam
 
+(Will-o-Wisp Physical Disruptor)
 Sableye-Mega @ Sablenite
 Ability: Prankster
 EVs: 248 HP / 168 Def / 92 SpD
@@ -1322,6 +1452,7 @@ IVs: 0 Atk
 - Foul Play
 - Recover
 
+(Sturdy Abuser)
 Sawk (M) @ Fightinium Z
 Ability: Sturdy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1331,6 +1462,7 @@ Jolly Nature
 - Thunder Punch / Ice Punch / Counter
 - Earthquake / Ice Punch / Counter
 
+(Defensive Sturdy Abuser)
 Sawk @ Fightinium Z
 Ability: Sturdy
 EVs: 20 HP / 40 Atk / 224 Def / 224 Spe
@@ -1340,6 +1472,7 @@ Jolly Nature
 - Thunder Punch
 - Rock Tomb
 
+(Scarf Sawk)
 Sawk (M) @ Choice Scarf
 Ability: Sturdy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1349,6 +1482,7 @@ Jolly / Adamant Nature
 - Rock Slide
 - Ice Punch
 
+(Band Sawk)
 Sawk (M) @ Choice Band
 Ability: Sturdy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1358,6 +1492,7 @@ Adamant Nature
 - Stone Edge / Ice Punch
 - Low Sweep / Ice Punch
 
+(Bulky Hard Hitting Attacker)
 Tyranitar-Mega @ Tyranitarite
 Ability: Sand Stream
 EVs: 248 HP / 104 Atk / 72 Def / 64 SpD / 20 Spe
@@ -1367,6 +1502,7 @@ Adamant Nature
 - Stone Edge / Thunder Punch
 - Taunt / Superpower / Fire Punch
 
+(Iron-D Stall)
 Tyranitar-Mega @ Tyranitarite
 Ability: Sand Stream
 EVs: 56 HP / 248 Def / 36 SpA / 168 Spe
@@ -1376,6 +1512,7 @@ Bold Nature
 - Rock Tomb
 - Rest
 
+(Defensive Counter Coat)
 Blastoise-Mega @ Blastoisinite
 Ability: Torrent
 EVs: 252 HP / 252 Def / 4 SpD
@@ -1386,6 +1523,7 @@ IVs: 0 Atk
 - Mirror Coat
 - Water Pulse / Ice Beam / Hydro Pump
 
+(Fake-Out Sturdy Killer)
 Blastoise-Mega @ Blastoisinite
 Ability: Torrent
 EVs: 136 HP / 252 SpA / 8 SpD / 112 Spe
@@ -1395,6 +1533,7 @@ Modest Nature
 - Aura Sphere
 - Ice Beam / Hydro Cannon
 
+(Defensive Mega Launcher Abuser)
 Blastoise-Mega @ Blastoisinite
 Ability: Torrent
 EVs: 120 HP / 228 Def / 48 SpA / 112 Spe
@@ -1404,6 +1543,7 @@ Bold Nature
 - Dark Pulse
 - Aura Sphere
 
+(Offensive Mega Launcher Abuser)
 Blastoise-Mega @ Blastoisinite
 Ability: Torrent
 EVs: 128 HP / 248 SpA / 20 SpD / 112 Spe
@@ -1413,6 +1553,7 @@ Modest Nature
 - Dark Pulse
 - Ice Beam
 
+(Z-Charm Stall)
 Blissey (F) @ Fairium Z
 Ability: Serene Grace
 EVs: 248 HP / 252 Def / 8 SpD
@@ -1423,6 +1564,7 @@ IVs: 0 Atk
 - Seismic Toss / Psywave / Calm Mind / Counter
 - Ice Beam / Flamethrower / Uproar / Counter
 
+(Defensive Bulk Up)
 Buzzwole @ Fightinium Z
 Ability: Beast Boost
 EVs: 184 HP / 152 Atk / 172 Def
@@ -1432,6 +1574,7 @@ Adamant Nature
 - Roost
 - Ice Punch / Rock Tomb / Taunt / Thunder Punch
 
+(AV Buzzwole)
 Buzzwole @ Assault Vest
 Ability: Beast Boost
 EVs: 184 HP / 76 Atk / 248 SpD
@@ -1441,6 +1584,7 @@ Adamant Nature
 - Thunder Punch
 - Ice Punch
 
+(Defensive Leech Seed Stall)
 Celesteela @ Leftovers
 Ability: Beast Boost
 EVs: 252 HP / 252 Def / 4 SpD
@@ -1450,6 +1594,7 @@ Bold / Relaxed Nature
 - Air Slash / Heavy Slam
 - Flamethrower / Fire Blast / Heavy Slam
 
+(Bulky Choice Specs Rage)
 Celesteela @ Choice Specs
 Ability: Beast Boost
 EVs: 248 HP / 240 SpA / 20 SpD
@@ -1460,6 +1605,7 @@ IVs: 0 Atk
 - Air Slash
 - Grass Knot / Giga Drain
 
+(Shell Smash Sturdy Abuser)
 Crustle @ Rockium Z
 Ability: Sturdy
 EVs: 160 HP / 144 Atk / 204 Spe
@@ -1469,6 +1615,7 @@ Adamant Nature
 - Rock Blast
 - Counter / Substitute
 
+(Special Attacking Magnet Rise Type: A)
 Diancie-Mega @ Diancite
 Ability: Clear Body
 EVs: 128 HP / 8 Atk / 244 SpA / 128 Spe
@@ -1478,15 +1625,7 @@ Rash Nature
 - Magnet Rise
 - Hidden Power [Ice] / Hidden Power [Fire]
 
-Diancie-Mega @ Diancite
-Ability: Clear Body
-EVs: 16 Atk / 244 SpA / 248 Spe
-Naive Nature
-- Diamond Storm
-- Moonblast
-- Magnet Rise
-- Sharpen
-
+(Special Attacking Magnet Rise Type: B)
 Diancie-Mega @ Diancite
 Ability: Clear Body
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1497,6 +1636,17 @@ IVs: 0 Atk
 - Magnet Rise
 - Hidden Power [Ice] / Hidden Power [Fire]
 
+(Mixed Offense)
+Diancie-Mega @ Diancite
+Ability: Clear Body
+EVs: 16 Atk / 244 SpA / 248 Spe
+Naive Nature
+- Diamond Storm
+- Moonblast
+- Magnet Rise
+- Sharpen
+
+(Choice Band Power)
 Durant @ Choice Band
 Ability: Hustle
 EVs: 24 HP / 232 Atk / 252 Spe
@@ -1506,6 +1656,7 @@ Jolly Nature
 - Iron Head
 - Stone Edge
 
+(Hustle = Muscle)
 Durant @ Choice Scarf
 Ability: Hustle
 EVs: 4 HP / 252 Atk / 252 Spe
@@ -1515,6 +1666,7 @@ Adamant Nature
 - Superpower
 - Rock Slide
 
+(Entrainment Rant)
 Durant @ Leftovers
 Ability: Truant
 EVs: 252 HP / 252 Def / 4 Spe
@@ -1524,6 +1676,7 @@ Impish Nature
 - Substitute
 - Iron Head / Toxic
 
+(Defensive Hex Abuser)
 Gengar-Mega @ Gengarite
 Ability: Cursed Body
 EVs: 252 HP / 208 Def / 48 SpA
@@ -1534,6 +1687,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Hypnosis
 
+(Offense Hex Abuser)
 Gengar-Mega @ Gengarite
 Ability: Cursed Body
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1544,6 +1698,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Hidden Power [Ice] / Focus Blast / Will-O-Wisp
 
+(Defensive Specs Unbound)
 Hoopa-Unbound @ Choice Specs
 Ability: Magician
 EVs: 252 HP / 252 Def / 4 SpA
@@ -1554,6 +1709,7 @@ IVs: 0 Atk
 - Dark Pulse
 - Hidden Power [Ice] / Focus Blast
 
+(Offense Specs Unbound)
 Hoopa-Unbound @ Choice Specs
 Ability: Magician
 EVs: 84 HP / 96 Def / 172 SpA / 156 Spe
@@ -1564,6 +1720,7 @@ IVs: 1 Atk
 - Focus Blast / Hidden Power [Ice]
 - Thunderbolt / Hidden Power [Ice]
 
+(Offense Banded Unbound)
 Hoopa-Unbound @ Choice Band
 Ability: Magician
 EVs: 84 HP / 128 Atk / 96 Def / 200 Spe
@@ -1573,6 +1730,7 @@ Adamant Nature
 - Zen Headbutt / Ice Punch / Drain Punch
 - Fire Punch / Ice Punch / Drain Punch
 
+(Scarf Unbound)
 Hoopa-Unbound @ Choice Scarf
 Ability: Magician
 EVs: 48 HP / 252 SpA / 4 SpD / 204 Spe
@@ -1582,6 +1740,7 @@ Timid Nature
 - Hidden Power [Fire] / Hidden Power [Ice] / Focus Blast / Grass Knot
 - Gunk Shot / Focus Blast / Grass Knot
 
+(Mixed Darkium Nuke)
 Hoopa-Unbound @ Darkinium Z
 Ability: Magician
 EVs: 248 HP / 80 Atk / 164 Def / 16 SpD
@@ -1591,6 +1750,7 @@ Sassy Nature
 - Trick Room
 - Gunk Shot / Substitute / Nasty Plot
 
+(Standard Soulblaze)
 Kommo-o @ Kommonium Z
 Ability: Overcoat
 EVs: 136 HP / 8 Atk / 252 SpA / 112 Spe
@@ -1600,6 +1760,7 @@ Mild Nature
 - Substitute
 - Flamethrower
 
+(Bulky Standard Soulblaze)
 Kommo-o @ Kommonium Z
 Ability: Overcoat
 EVs: 216 HP / 124 SpA / 4 SpD / 164 Spe
@@ -1609,6 +1770,7 @@ Timid Nature
 - Close Combat
 - Substitute
 
+(Curse Coat)
 Swampert-Mega @ Swampertite
 Ability: Torrent
 EVs: 248 HP / 104 Atk / 156 Def
@@ -1618,6 +1780,7 @@ Adamant Nature
 - Outrage
 - Mirror Coat
 
+(Yawn-Pert)
 Swampert-Mega @ Swampertite
 Ability: Torrent
 EVs: 168 HP / 176 Atk / 36 SpA / 128 SpD
@@ -1627,6 +1790,7 @@ Brave Nature
 - Earthquake
 - Ice Beam
 
+(Counter-Coat)
 Swampert-Mega @ Swampertite
 Ability: Torrent
 EVs: 248 HP / 36 SpA / 72 SpD / 152 Spe
@@ -1636,6 +1800,7 @@ Timid Nature
 - Earthquake
 - Ice Beam
 
+(Charm Stall)
 Togekiss @ Fairium Z
 Ability: Serene Grace
 EVs: 240 HP / 116 Def / 4 SpA / 148 SpD
@@ -1646,6 +1811,7 @@ IVs: 0 Atk
 - Air Slash / Dazzling Gleam
 - Dazzling Gleam / Thunder Wave / Nasty Plot
 
+(Yawn-Kiss)
 Togekiss @ Normalium Z
 Ability: Serene Grace
 EVs: 120 HP / 184 SpA / 204 Spe
@@ -1656,6 +1822,7 @@ IVs: 0 Atk
 - Air Slash
 - Substitute / Fire Blast
 
+(Slash Flinch Is My City)
 Togekiss @ Choice Scarf
 Ability: Serene Grace
 EVs: 4 Def / 252 SpA / 252 Spe
@@ -1665,6 +1832,7 @@ Timid Nature
 - Dazzling Gleam
 - Metronome / Aura Sphere / Trick
 
+(Defensive Set Up Fire Nuke)
 Volcarona @ Firium Z
 Ability: Flame Body / Swarm
 EVs: 196 Def / 88 SpA / 224 Spe
@@ -1675,6 +1843,7 @@ IVs: 0 Atk
 - Quiver Dance
 - Bug Buzz / Hidden Power [Ice] / Hidden Power [Rock]
 
+(Offense Bug Nuke)
 Volcarona @ Buginium Z
 Ability: Swarm
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1685,6 +1854,7 @@ IVs: 0 Atk
 - Overheat
 - Quiver Dance / Hidden Power [Ice] / Hidden Power [Rock]
 
+(Specially Bulky + Nuke)
 Volcarona @ Firium Z / Buginium Z
 Ability: Swarm / Flame Body
 EVs: 248 HP / 28 Def / 184 SpD / 48 Spe
@@ -1695,6 +1865,7 @@ IVs: 0 Atk
 - Roost
 - Bug Buzz / Will-O-Wisp / Substitute
 
+(Steel-Weakness Leech Seeder)
 Whimsicott @ Babiri Berry
 Ability: Prankster
 EVs: 128 HP / 252 Def / 100 SpD / 28 Spe
@@ -1705,6 +1876,7 @@ IVs: 0 Atk
 - Protect
 - Taunt / Moonblast / Grass Whistle
 
+(Fire-Weakness Leech Seeder)
 Whimsicott @ Occa Berry
 Ability: Prankster
 EVs: 252 HP / 96 Def / 160 SpD
@@ -1715,6 +1887,7 @@ IVs: 0 Atk
 - Substitute
 - Taunt / Moonblast / Grass Whistle
 
+(Choice Scarf)
 Archeops @ Choice Scarf
 Ability: Defeatist
 EVs: 244 Atk / 48 SpA / 216 Spe
@@ -1724,6 +1897,7 @@ Naughty Nature
 - Heat Wave
 - Hidden Power [Ice]
 
+(Choice Band)
 Archeops @ Choice Band
 Ability: Defeatist
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1733,6 +1907,7 @@ Jolly Nature
 - Earthquake / Outrage / Switcheroo
 - Fly
 
+(Curse Coat Sturdy + Fighting Nuke)
 Avalugg @ Fightinium Z
 Ability: Sturdy
 EVs: 252 HP / 156 Atk / 100 Def
@@ -1743,6 +1918,7 @@ IVs: 0 SpD
 - Curse
 - Mirror Coat
 
+(Curse Coat Sturdy + Ground Nuke)
 Avalugg @ Groundium Z
 Ability: Sturdy
 EVs: 252 HP / 84 Atk / 172 Def
@@ -1753,6 +1929,7 @@ IVs: 0 SpD
 - Avalanche
 - Mirror Coat
 
+(Defensive Curse)
 Avalugg @ Leftovers
 Ability: Sturdy
 EVs: 252 HP / 4 Atk / 252 Def
@@ -1763,6 +1940,7 @@ IVs: 0 SpD
 - Avalanche
 - Mirror Coat
 
+(Yawn-Rupt)
 Camerupt-Mega @ Cameruptite
 Ability: Solid Rock
 EVs: 248 HP / 224 Def / 36 SpD
@@ -1773,6 +1951,7 @@ IVs: 0 Atk
 - Flamethrower / Fire Blast
 - Ancient Power
 
+(Bulky Offense)
 Camerupt-Mega @ Cameruptite
 Ability: Solid Rock
 EVs: 252 HP / 4 Def / 36 SpA / 216 SpD
@@ -1783,6 +1962,7 @@ IVs: 0 Atk
 - Fire Blast
 - Substitute / Flash Cannon
 
+(Defensively Bulky Stall)
 Camerupt-Mega @ Cameruptite
 Ability: Solid Rock
 EVs: 248 HP / 252 Def / 8 SpD
@@ -1793,6 +1973,7 @@ IVs: 0 Atk
 - Flamethrower
 - Amnesia
 
+(Rock Nuke Sturdy)
 Carracosta @ Rockium Z
 Ability: Sturdy
 EVs: 252 Atk / 4 SpA / 252 Spe
@@ -1802,6 +1983,7 @@ Naive / Jolly Nature
 - Shell Smash
 - Hydro Pump / Ice Beam / Liquidation
 
+(Mace's Dual Screens)
 Deoxys-Speed @ Psychium Z
 Ability: Pressure
 EVs: 120 HP / 176 SpA / 212 Spe
@@ -1812,6 +1994,7 @@ IVs: 0 Atk
 - Light Screen
 - Reflect
 
+(Sub-Taunt Stall)
 Deoxys-Speed @ Leftovers
 Ability: Pressure
 EVs: 248 HP / 8 SpD / 252 Spe
@@ -1822,6 +2005,7 @@ IVs: 0 Atk
 - Recover
 - Taunt
 
+(Specs Deoxys-Speed)
 Deoxys-Speed @ Choice Specs
 Ability: Pressure
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1832,6 +2016,7 @@ IVs: 0 Atk
 - Focus Blast / Hidden Power [Fire] / Hidden Power [Rock] / Thunderbolt
 - Shadow Ball / Hidden Power [Fire] / Hidden Power [Rock] / Thunderbolt
 
+(Z-Detect)
 Deoxys-Speed @ Fightinium Z
 Ability: Pressure
 EVs: 248 HP / 8 SpD / 252 Spe
@@ -1842,6 +2027,7 @@ IVs: 0 Atk
 - Recover
 - Night Shade / Toxic
 
+(Magnet Rise Groundium Nuke)
 Excadrill @ Groundium Z
 Ability: Mold Breaker
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -1851,6 +2037,7 @@ Jolly Nature
 - Swords Dance
 - Substitute
 
+(Scarf Mold Breaker)
 Excadrill @ Choice Scarf
 Ability: Mold Breaker
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1860,6 +2047,7 @@ Jolly Nature
 - Iron Head
 - X-Scissor
 
+(Bulk-Up Anti-Lop)
 Gallade-Mega @ Galladite
 Ability: Justified
 EVs: 100 HP / 120 Atk / 96 Def / 192 Spe
@@ -1869,6 +2057,7 @@ Jolly Nature
 - Rock Tomb
 - Will-O-Wisp
 
+(Full Offense)
 Gallade-Mega @ Galladite
 Ability: Steadfast
 EVs: 8 HP / 168 Atk / 80 Def / 252 Spe
@@ -1878,6 +2067,7 @@ Jolly Nature
 - Rock Tomb / Rock Slide
 - Thunder Punch
 
+(+2 Special Offense)
 Latios @ Psychium Z
 Ability: Levitate
 EVs: 4 Def / 252 SpA / 252 Spe
@@ -1888,6 +2078,7 @@ IVs: 0 Atk
 - Heal Block
 - Reflect / Hidden Power [Fire]
 
+(Specs Latios)
 Latios @ Choice Specs
 Ability: Levitate
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1898,6 +2089,7 @@ IVs: 0 Atk
 - Hidden Power [Fire]
 - Thunder / Ice Beam / Trick
 
+(Scarf Latios)
 Latios @ Choice Scarf
 Ability: Levitate
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1908,6 +2100,7 @@ IVs: 0 Atk
 - Ice Beam
 - Hidden Power [Fire]
 
+(Bulk-Up Offense)
 Lucario-Mega @ Lucarionite
 Ability: Inner Focus
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1917,6 +2110,7 @@ Jolly Nature
 - Rock Slide / Bulk Up
 - Magnet Rise / Bulk Up
 
+(Sub-Sub Reversal)
 Lucario-Mega @ Lucarionite
 Ability: Steadfast
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1926,6 +2120,7 @@ Jolly Nature
 - Rock Tomb / Rock Slide / Magnet Rise
 - Meteor Mash / Magnet Rise
 
+(Special Attacker)
 Lucario-Mega @ Lucarionite
 Ability: Inner Focus
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1935,6 +2130,7 @@ Timid Nature
 - Rock Slide / Hidden Power [Ice] / Nasty Plot
 - Magnet Rise
 
+(Bulky Offense)
 Marowak-Alola @ Thick Club
 Ability: Lightning Rod
 EVs: 248 HP / 184 Atk / 68 Def / 8 Spe
@@ -1944,6 +2140,7 @@ Adamant Nature
 - Swords Dance / Earthquake / Flame Charge
 - Stone Edge / Earthquake / Flame Charge
 
+(Fake-Out Power)
 Medicham-Mega @ Medichamite
 Ability: Telepathy
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -1953,6 +2150,7 @@ Adamant / Jolly Nature
 - Thunder Punch / Zen Headbutt
 - Ice Punch / Zen Headbutt
 
+(Defensive Fake-Out)
 Medicham-Mega @ Medichamite
 Ability: Telepathy
 EVs: 80 HP / 28 Atk / 192 Def / 208 Spe
@@ -1962,6 +2160,7 @@ Adamant Nature
 - Bulk Up
 - Thunder Punch
 
+(Banded Mosa)
 Pheromosa @ Choice Band
 Ability: Beast Boost
 EVs: 252 Atk / 4 SpA / 252 Spe
@@ -1971,6 +2170,7 @@ Naughty / Naive / Adamant / Jolly Nature
 - Ice Beam / Poison Jab / Blizzard
 - Giga Impact
 
+(Life Orb Mixed)
 Pheromosa @ Life Orb
 Ability: Beast Boost
 EVs: 4 Atk / 252 SpA / 252 Spe
@@ -1980,6 +2180,7 @@ Rash Nature
 - Ice Beam
 - Shock Wave
 
+(Special Nuking Fightium)
 Pheromosa @ Fightinium Z
 Ability: Beast Boost
 EVs: 200 HP / 252 Def / 4 SpA / 52 Spe
@@ -1989,6 +2190,7 @@ Bold / Lax Nature
 - Ice Beam / Blizzard
 - Lunge
 
+(Choice Specs)
 Pheromosa @ Choice Specs
 Ability: Beast Boost
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -1999,6 +2201,7 @@ IVs: 0 Atk
 - Bug Buzz / Shock Wave / Hidden Power [Rock]
 - Ice Beam
 
+(Bulky Tri-Attack)
 Porygon2 @ Eviolite
 Ability: Analytic
 EVs: 248 HP / 160 Def / 100 SpD
@@ -2009,6 +2212,7 @@ IVs: 0 Atk
 - Ice Beam
 - Hyper Beam / Hidden Power [Fire]
 
+(Recover Foul Play)
 Porygon2 @ Eviolite
 Ability: Analytic
 EVs: 248 HP / 160 Def / 92 SpD / 8 Spe
@@ -2019,6 +2223,7 @@ IVs: 0 Atk
 - Ice Beam
 - Substitute / Conversion 2 / Toxic
 
+(Curse Type: A)
 Scizor-Mega @ Scizorite
 Ability: Light Metal
 EVs: 248 HP / 160 Def / 100 SpD
@@ -2028,6 +2233,7 @@ Impish Nature
 - Laser Focus
 - Bullet Punch
 
+(Curse Type: B)
 Scizor-Mega @ Scizorite
 Ability: Light Metal
 EVs: 252 HP / 84 Atk / 140 Def / 32 SpD
@@ -2037,6 +2243,7 @@ Impish Nature
 - Bug Bite
 - Roost
 
+(Bulky Grass Nuke)
 Tapu Bulu @ Grassium Z
 Ability: Grassy Surge
 EVs: 232 HP / 72 Atk / 64 SpD / 140 Spe
@@ -2046,6 +2253,7 @@ Adamant Nature
 - Taunt
 - Swords Dance
 
+(Scarf Bulu)
 Tapu Bulu @ Choice Scarf
 Ability: Grassy Surge
 EVs: 8 HP / 208 Atk / 16 Def / 32 SpA / 244 Spe
@@ -2055,6 +2263,7 @@ Jolly Nature
 - Hidden Power [Fire]
 - Stone Edge
 
+(AV Bulu)
 Tapu Bulu @ Assault Vest
 Ability: Grassy Surge
 EVs: 160 HP / 68 Atk / 116 SpD / 164 Spe
@@ -2064,6 +2273,7 @@ Adamant Nature
 - Megahorn
 - Superpower
 
+(Banded Bulu)
 Tapu Bulu @ Choice Band
 Ability: Grassy Surge
 EVs: 104 HP / 240 Atk / 164 Spe
@@ -2073,6 +2283,7 @@ Adamant Nature
 - Superpower
 - Rock Tomb
 
+(Rock Nuke)
 Terrakion @ Rockium Z
 Ability: Justified
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -2082,6 +2293,7 @@ Jolly Nature
 - Swords Dance / Substitute
 - Taunt / Substitute
 
+(Z-Charm Stall)
 Umbreon @ Fairium Z
 Ability: Synchronize
 EVs: 248 HP / 252 Def / 8 SpD
@@ -2092,6 +2304,7 @@ IVs: 0 Atk
 - Snarl
 - Moonlight
 
+(Banded V-Create Victini)
 Victini @ Choice Band
 Ability: Victory Star
 EVs: 108 HP / 212 Atk / 88 SpD / 100 Spe
@@ -2101,6 +2314,7 @@ Adamant Nature
 - Zen Headbutt
 - Flame Charge
 
+(Scarf V-Create Victini)
 Victini @ Choice Scarf
 Ability: Victory Star
 EVs: 252 Atk / 116 SpA / 140 Spe
@@ -2110,6 +2324,7 @@ Naughty Nature
 - Blue Flare
 - Focus Blast
 
+(Psychic Nuke)
 Victini @ Psychium Z
 Ability: Victory Star
 EVs: 8 HP / 248 Def / 252 SpA
@@ -2120,6 +2335,7 @@ IVs: 0 Atk
 - Glaciate / Flame Charge
 - Blue Flare
 
+(Defensive Fire Nuke)
 Victini @ Firium Z
 Ability: Victory Star
 EVs: 8 HP / 248 Def / 152 SpA / 100 Spe
@@ -2130,6 +2346,7 @@ IVs: 0 Atk
 - Grass Knot
 - Glaciate / Psychic / Flame Charge
 
+(Z-Celebrate Stored Power)
 Victini @ Normalium Z
 Ability: Victory Star
 EVs: 232 HP / 136 Def / 140 Spe
@@ -2140,6 +2357,7 @@ IVs: 0 Atk
 - Focus Blast
 - Fire Blast / Searing Shot / V-Create / Overheat
 
+(Standard Sleep)
 Vivillon-Marine @ Leftovers
 Ability: Compound Eyes
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2150,6 +2368,7 @@ IVs: 0 Atk
 - Hurricane
 - Quiver Dance / Roost
 
+(Ghostium Nuke)
 Blacephalon @ Ghostium Z
 Ability: Beast Boost
 EVs: 16 HP / 252 SpA / 240 Spe
@@ -2160,6 +2379,7 @@ IVs: 0 Atk
 - Mind Blown / Overheat
 - Taunt
 
+(Choice Scarf)
 Blacephalon @ Choice Scarf
 Ability: Beast Boost
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2170,6 +2390,7 @@ IVs: 0 Atk
 - Psychic / Hyper Beam
 - Hidden Power [Ice] / Hyper Beam
 
+(Choice Specs)
 Blacephalon @ Choice Specs
 Ability: Beast Boost
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2180,6 +2401,7 @@ IVs: 0 Atk
 - Shadow Ball
 - Overheat / Mind Blown
 
+(King's Rock Sturdy Killer)
 Blacephalon @ King's Rock
 Ability: Beast Boost
 EVs: 4 Atk / 252 SpA / 252 Spe
@@ -2189,6 +2411,7 @@ Timid / Hasty / Naive Nature
 - Mind Blown
 - Substitute
 
+(Rockium Is Muscle)
 Entei @ Rockium Z
 Ability: Pressure
 Shiny: Yes
@@ -2199,6 +2422,7 @@ Adamant Nature
 - Stone Edge
 - Bulldoze
 
+(Bulky Mixed Offense)
 Garchomp-Mega @ Garchompite
 Ability: Rough Skin
 EVs: 232 HP / 52 Atk / 188 Def / 36 Spe
@@ -2208,6 +2432,7 @@ Impish Nature
 - Swords Dance
 - Outrage
 
+(Specially Bulky Attacker)
 Garchomp-Mega @ Garchompite
 Ability: Rough Skin
 EVs: 200 HP / 52 Atk / 252 SpD / 4 Spe
@@ -2217,6 +2442,7 @@ Adamant Nature
 - Outrage
 - Substitute / Fire Fang
 
+(Choice Band)
 Haxorus @ Choice Band
 Ability: Mold Breaker
 EVs: 4 HP / 252 Atk / 4 SpD / 248 Spe
@@ -2226,6 +2452,7 @@ Jolly Nature
 - Superpower
 - Outrage
 
+(Scarf Disruptor)
 Haxorus @ Choice Scarf
 Ability: Mold Breaker
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -2235,6 +2462,7 @@ Jolly Nature
 - Earthquake
 - Rock Slide
 
+(Waterium-Z Niche)
 Haxorus @ Waterium Z
 Ability: Mold Breaker
 EVs: 4 HP / 252 Atk / 4 SpD / 248 Spe
@@ -2244,6 +2472,7 @@ Adamant Nature
 - Earthquake
 - Dragon Dance / Swords Dance
 
+(Poisonium-Z Anti Fairy)
 Haxorus @ Poisonium Z
 Ability: Mold Breaker
 EVs: 4 HP / 252 Atk / 4 SpD / 248 Spe
@@ -2253,6 +2482,7 @@ Adamant Nature
 - Earthquake
 - Swords Dance
 
+(Earthquake Nuke)
 Haxorus @ Groundium Z
 Ability: Mold Breaker
 EVs: 80 HP / 180 Atk / 248 Spe
@@ -2262,6 +2492,7 @@ Adamant Nature
 - Swords Dance
 - Substitute
 
+(Choice Scarf Meteor + Head Smash)
 Hydreigon @ Choice Scarf
 Ability: Levitate
 EVs: 16 HP / 40 Def / 204 SpA / 248 Spe
@@ -2271,6 +2502,7 @@ Modest Nature
 - Earth Power / Dark Pulse / Fire Blast
 - Focus Blast / Dark Pulse / Fire Blast
 
+(Choice Specs Meteor)
 Hydreigon @ Choice Specs
 Ability: Levitate
 EVs: 216 HP / 12 Def / 252 SpA / 28 Spe
@@ -2281,6 +2513,7 @@ IVs: 0 Atk
 - Earth Power / Focus Blast
 - Flamethrower / Focus Blast
 
+(Fightium Fake Out)
 Infernape @ Fightinium Z
 Ability: Blaze
 EVs: 72 Atk / 184 SpA / 252 Spe
@@ -2290,6 +2523,7 @@ Naive / Hasty Nature
 - Blast Burn
 - Stone Edge
 
+(Life Orb Mixed Fake Out)
 Infernape @ Life Orb
 Ability: Blaze
 EVs: 252 Atk / 4 SpA / 252 Spe
@@ -2299,6 +2533,7 @@ Naive / Hasty Nature
 - Close Combat
 - Blast Burn
 
+(Scarf Mixed)
 Infernape @ Choice Scarf
 Ability: Blaze
 EVs: 40 Atk / 252 SpA / 216 Spe
@@ -2308,6 +2543,7 @@ Rash / Mild Nature
 - Close Combat
 - Hidden Power [Ice] / Grass Knot
 
+(Z-Solar Beam Surprise)
 Infernape @ Grassium Z
 Ability: Blaze
 EVs: 252 SpA / 24 SpD / 232 Spe
@@ -2317,6 +2553,7 @@ Mild Nature
 - Blast Burn
 - Nasty Plot / Close Combat
 
+(Defensively Bulky + Stab Nuke)
 Keldeo @ Waterium Z / Fightinium Z
 Ability: Justified
 EVs: 248 HP / 156 Def / 4 SpA / 100 SpD
@@ -2327,6 +2564,7 @@ IVs: 0 Atk
 - Icy Wind
 - Calm Mind
 
+(Anti Gyarados)
 Keldeo @ Fightinium Z
 Ability: Justified
 EVs: 88 HP / 248 Def / 32 SpA / 140 Spe
@@ -2337,6 +2575,7 @@ IVs: 0 Atk
 - Icy Wind
 - Substitute
 
+(CM Water Nuke)
 Keldeo @ Waterium Z
 Ability: Justified
 EVs: 108 HP / 208 Def / 192 Spe
@@ -2347,6 +2586,7 @@ IVs: 0 Atk
 - Substitute
 - Icy Wind
 
+(Life Orb Mixed)
 Landorus (M) @ Life Orb
 Ability: Sheer Force
 EVs: 4 Atk / 252 SpA / 252 Spe
@@ -2356,6 +2596,7 @@ Naive Nature
 - Substitute / Hidden Power [Ice] / Sludge Wave
 - Focus Blast / Hidden Power [Ice] / Sludge Wave
 
+(Scarf Mixed)
 Landorus (M) @ Choice Scarf
 Ability: Sheer Force
 EVs: 36 Atk / 28 Def / 196 SpA / 248 Spe
@@ -2365,6 +2606,7 @@ Naive Nature
 - Sludge Wave / Hidden Power [Ice]
 - Focus Blast / Hidden Power [Ice]
 
+(Reflect Type Charm Stall)
 Latias-Mega @ Latiasite
 Ability: Levitate
 EVs: 248 HP / 124 Def / 8 SpD / 128 Spe
@@ -2375,6 +2617,7 @@ IVs: 0 Atk
 - Charm
 - Dragon Pulse
 
+(Defensively Bulky Stored Power)
 Latias-Mega (F) @ Latiasite
 Ability: Levitate
 EVs: 224 HP / 164 SpD / 120 Spe
@@ -2385,6 +2628,7 @@ IVs: 0 Atk
 - Recover
 - Stored Power
 
+(Z-Charm Stall)
 Meowstic (M) @ Fairium Z
 Ability: Prankster
 EVs: 248 HP / 64 Def / 196 SpD
@@ -2395,6 +2639,7 @@ IVs: 0 Atk
 - Psychic
 - Rest
 
+(Timid Choice Specs)
 Nihilego @ Choice Specs
 Ability: Beast Boost
 EVs: 8 HP / 252 SpA / 248 Spe
@@ -2405,6 +2650,7 @@ IVs: 0 Atk
 - Acid Spray
 - Hidden Power [Ice] / Hidden Power [Fire]
 
+(Coat Rock Nuke)
 Nihilego @ Rockium Z
 Ability: Beast Boost
 EVs: 16 HP / 252 SpA / 240 Spe
@@ -2415,6 +2661,7 @@ IVs: 0 Atk
 - Substitute
 - Mirror Coat
 
+(Feather Dance Stall)
 Pidgeot-Mega @ Pidgeotite
 Ability: Big Pecks
 EVs: 100 HP / 240 Def / 168 Spe
@@ -2424,6 +2671,7 @@ Timid Nature
 - Roost
 - Work Up / Heat Wave / Substitute / Quick Attack
 
+(Sturdy Yawn + Nuke)
 Relicanth @ Rockium Z
 Ability: Sturdy
 EVs: 128 HP / 252 Atk / 128 Def
@@ -2433,6 +2681,7 @@ Adamant Nature
 - Head Smash
 - Waterfall / Earthquake
 
+(Specially Defensive Gigavolt Nuke)
 Thundurus-Therian (M) @ Electrium Z
 Ability: Volt Absorb
 EVs: 84 SpA / 176 SpD / 248 Spe
@@ -2443,6 +2692,7 @@ IVs: 0 Atk
 - Nasty Plot
 - Taunt
 
+(Defensively Bulky Set Up)
 Thundurus-Therian (M) @ Electrium Z
 Ability: Volt Absorb
 EVs: 252 HP / 252 Def / 4 SpA
@@ -2453,6 +2703,7 @@ IVs: 0 Atk
 - Hidden Power [Ice]
 - Nasty Plot
 
+(Choice Scarf)
 Thundurus-Therian (M) @ Choice Scarf
 Ability: Volt Absorb
 EVs: 4 Def / 252 SpA / 252 Spe
@@ -2463,6 +2714,7 @@ IVs: 0 Atk
 - Focus Blast / Incinerate / Flash Cannon
 - Hidden Power [Ice] / Incinerate / Flash Cannon
 
+(Choice Specs)
 Thundurus-Therian (M) @ Choice Specs
 Ability: Volt Absorb
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2473,6 +2725,7 @@ IVs: 0 Atk
 - Focus Blast / Incinerate / Psychic
 - Sludge Wave / Incinerate / Psychic
 
+(Shell Smash)
 Cloyster @ Life Orb
 Ability: Skill Link
 EVs: 68 HP / 192 Atk / 248 Spe
@@ -2482,6 +2735,7 @@ Adamant Nature
 - Icicle Spear
 - Barrier
 
+(Z-Charm)
 Ninetales-Alola @ Fairium Z
 Ability: Snow Warning
 EVs: 4 Def / 252 SpA / 252 Spe
@@ -2492,6 +2746,7 @@ IVs: 0 Atk
 - Charm
 - Hidden Power [Rock] / Blizzard
 
+(HAIL)
 Pyukumuku @ Sitrus Berry
 Ability: Unaware
 EVs: 248 HP / 176 Def / 84 SpD
@@ -2502,6 +2757,7 @@ IVs: 0 Atk
 - Hail
 - Spite
 
+(LIGHT SCREEN)
 Pyukumuku @ Psychium Z
 Ability: Unaware
 EVs: 248 HP / 124 Def / 136 SpD
@@ -2512,6 +2768,7 @@ IVs: 0 Atk
 - Spite
 - Rest
 
+(SPITE)
 Pyukumuku @ Leftovers
 Ability: Unaware
 EVs: 248 HP / 252 Def / 8 SpD
@@ -2522,6 +2779,7 @@ IVs: 0 Atk
 - Recover
 - Taunt / Toxic
 
+(SOAK)
 Pyukumuku @ Psychium Z
 Ability: Unaware
 EVs: 248 HP / 124 Def / 136 SpD
@@ -2532,6 +2790,7 @@ IVs: 0 Atk
 - Toxic
 - Soak
 
+(COUNTER)
 Pyukumuku @ Sitrus Berry
 Ability: Unaware
 EVs: 248 HP / 252 Def / 8 SpD
@@ -2542,6 +2801,7 @@ IVs: 0 Atk
 - Recover
 - Hail / Toxic
 
+(Z-Stockpile)
 Quagsire @ Normalium Z
 Ability: Unaware
 EVs: 252 HP / 16 Def / 240 SpD
@@ -2552,6 +2812,7 @@ IVs: 0 Atk
 - Toxic
 - Scald
 
+(Anti-Ground - Ice Nuke)
 Rhyperior @ Icium Z
 Ability: Solid Rock
 EVs: 96 HP / 176 Def / 112 SpA / 124 Spe
@@ -2561,6 +2822,7 @@ Bold Nature
 - Blizzard
 - Rock Blast
 
+(AV Metal Burst)
 Rhyperior @ Assault Vest
 Ability: Solid Rock
 EVs: 224 HP / 64 Atk / 4 Def / 216 SpD
@@ -2570,6 +2832,7 @@ Adamant Nature
 - Fire Punch / Superpower / Metal Burst
 - Rock Wrecker / Superpower / Metal Burst
 
+(Defensively Bulky Banded)
 Rhyperior @ Choice Band
 Ability: Solid Rock
 EVs: 168 HP / 96 Atk / 244 Def
@@ -2579,6 +2842,7 @@ Adamant Nature
 - Ice Punch / Fire Punch / Rock Wrecker
 - Superpower / Fire Punch / Rock Wrecker
 
+(Specially Bulky Banded)
 Rhyperior @ Choice Band
 Ability: Solid Rock
 EVs: 224 HP / 44 Atk / 4 Def / 236 SpD
@@ -2588,9 +2852,10 @@ Adamant Nature
 - Fire Punch / Avalanche / Rock Wrecker
 - Superpower / Avalanche / Rock Wrecker
 
+(Grass Nuke)
 Serperior @ Grassium Z
 Ability: Contrary
-EVs: 44 HP / 4 Def / 204 SpA / 24 SpD / 232 Spe
+EVs: 4 HP / 252 SpA / 252 Spe
 Timid Nature
 IVs: 0 Atk
 - Leaf Storm
@@ -2598,6 +2863,7 @@ IVs: 0 Atk
 - Synthesis
 - Substitute
 
+(Fake-Out + Poison Nuke)
 Salazzle (F) @ Poisonium Z
 Ability: Oblivious
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2608,6 +2874,7 @@ IVs: 0 Atk
 - Fake Out / Taunt / Disable
 - Nasty Plot / Substitute
 
+(Fake Out + Fire Nuke)
 Salazzle (F) @ Firium Z
 Ability: Oblivious
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2617,6 +2884,7 @@ Timid Nature
 - Hidden Power [Grass]
 - Sludge Wave
 
+(Rock Tomb + Flying Nuke)
 Skarmory @ Flyinium Z
 Ability: Sturdy
 EVs: 24 HP / 252 Atk / 232 Spe
@@ -2626,6 +2894,7 @@ Adamant Nature
 - Swords Dance / Iron Defense
 - Taunt / Roost
 
+(Water Nuke + Mirror Coat)
 Suicune @ Waterium Z
 Ability: Pressure
 Shiny: Yes
@@ -2637,6 +2906,7 @@ IVs: 0 Atk
 - Calm Mind
 - Mirror Coat
 
+(Defensively Bulky CM)
 Suicune @ Leftovers
 Ability: Inner Focus
 EVs: 248 HP / 216 Def / 44 SpD
@@ -2647,6 +2917,7 @@ IVs: 0 Atk
 - Calm Mind
 - Rest
 
+(Bulky Blizzard Spam)
 Abomasnow-Mega @ Abomasite
 Ability: Snow Warning
 EVs: 248 HP / 12 Def / 156 SpA / 92 SpD
@@ -2656,6 +2927,7 @@ Quiet Nature
 - Ice Shard
 - Earthquake
 
+(Bulky Physical Attacker + Blizzard Spam)
 Abomasnow-Mega @ Abomasite
 Ability: Snow Warning
 EVs: 248 HP / 236 Atk / 12 Def / 12 Spe
@@ -2665,6 +2937,7 @@ Adamant Nature
 - Blizzard
 - Wood Hammer
 
+(Encore + Disable)
 Alakazam-Mega @ Alakazite
 Ability: Magic Guard
 EVs: 248 HP / 8 Def / 252 Spe
@@ -2675,6 +2948,7 @@ IVs: 0 Atk
 - Encore
 - Recover / Psychic
 
+(Defensively Bulky Counter)
 Alakazam-Mega @ Alakazite
 Ability: Magic Guard
 EVs: 224 HP / 252 Def / 32 Spe
@@ -2685,6 +2959,7 @@ IVs: 0 Atk
 - Focus Blast
 - Psychic
 
+(Defensively Bulky Barrier + Knot)
 Alakazam-Mega @ Alakazite
 Ability: Magic Guard
 EVs: 240 HP / 240 Def / 12 SpD / 16 Spe
@@ -2695,6 +2970,7 @@ IVs: 0 Atk
 - Taunt
 - Recover
 
+(Specially Bulky Offense)
 Alakazam-Mega @ Alakazite
 Ability: Magic Guard
 EVs: 224 HP / 148 SpD / 136 Spe
@@ -2705,6 +2981,7 @@ IVs: 0 Atk
 - Shadow Ball
 - Recover
 
+(252 SpA + Spe Offense)
 Alakazam-Mega @ Alakazite
 Ability: Magic Guard
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2715,6 +2992,7 @@ IVs: 0 Atk
 - Hidden Power [Ice] / Hidden Power [Fire]
 - Shadow Ball
 
+(F.E.A.R. Type: A)
 Aron @ Berry Juice
 Ability: Sturdy
 Level: 1
@@ -2726,6 +3004,7 @@ IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
 - Endeavor
 - Attract / Metal Burst
 
+(F.E.A.R. Type: B)
 Aron @ Shell Bell
 Ability: Sturdy
 Level: 1
@@ -2737,6 +3016,7 @@ IVs: 0 HP / 0 Def / 0 SpD / 0 Spe
 - Endeavor
 - Aerial Ace / Metal Burst
 
+(Bulky Normalium-Z Nuke)
 Azumarill @ Normalium Z
 Ability: Huge Power
 EVs: 192 HP / 228 Atk / 88 SpD
@@ -2746,6 +3026,7 @@ Adamant Nature
 - Aqua Jet
 - Charm / Play Rough
 
+(Shell Smash + Tough Claws Abuser)
 Barbaracle @ Rockium Z
 Ability: Tough Claws
 EVs: 116 HP / 208 Atk / 184 Spe
@@ -2755,6 +3036,7 @@ Adamant Nature
 - Superpower
 - Taunt / Rock Tomb / Liquidation
 
+(Z-Snatch Sub Seed)
 Breloom @ Darkinium Z
 Ability: Poison Heal
 EVs: 32 HP / 36 Def / 224 SpD / 216 Spe
@@ -2765,6 +3047,7 @@ IVs: 0 Atk
 - Substitute
 - Spore
 
+(Cosmic Power Stall)
 Clefable @ Wiki Berry
 Ability: Unaware
 EVs: 252 HP / 20 Def / 236 SpD
@@ -2775,6 +3058,7 @@ IVs: 0 Atk
 - Wish
 - Protect
 
+(Z-Stat Drop  Stall)
 Clefable @ Normalium Z
 Ability: Magic Guard
 EVs: 252 HP / 252 Def / 4 SpD
@@ -2783,8 +3067,9 @@ IVs: 0 Atk
 - Growl
 - Confide
 - Soft-Boiled
-- Rest / Splash / Cosmic Power
+- Rest / Cosmic Power
 
+(Spite Confide + W-o-W Stall)
 Dusclops @ Eviolite
 Ability: Pressure
 EVs: 252 HP / 120 Def / 136 SpD
@@ -2795,9 +3080,10 @@ IVs: 0 Atk
 - Confide / Calm Mind
 - Will-O-Wisp / Night Shade / Shadow Ball
 
+(Overheat + Thunder Magnet Rise)
 Manectric-Mega @ Manectite
 Ability: Lightning Rod
-EVs: 4 HP / 24 Def / 252 SpA / 28 SpD / 200 Spe
+EVs: 4 HP / 252 SpA / 252 Spe
 Modest Nature
 IVs: 1 Atk
 - Overheat
@@ -2805,6 +3091,7 @@ IVs: 1 Atk
 - Magnet Rise
 - Thunder
 
+(Leaf Storm Nuke Type: A)
 Sceptile-Mega @ Sceptilite
 Ability: Overgrow
 EVs: 48 HP / 252 SpA / 208 Spe
@@ -2815,6 +3102,7 @@ IVs: 0 Atk
 - Hidden Power [Electric]
 - Dragon Pulse / Quick Attack / Grass Whistle
 
+(Leaf Storm Nuke Type: B)
 Sceptile-Mega @ Sceptilite
 Ability: Overgrow
 EVs: 48 HP / 252 SpA / 208 Spe
@@ -2825,6 +3113,7 @@ IVs: 0 Atk
 - Dragon Pulse / Grass Whistle
 - Quick Attack / Grass Whistle
 
+(Mixed Leaf Storm + Anti-Meta Type: A)
 Sceptile-Mega @ Sceptilite
 Ability: Overgrow
 EVs: 48 Atk / 252 SpA / 208 Spe
@@ -2834,6 +3123,7 @@ Mild Nature
 - Substitute
 - Hidden Power [Electric]
 
+(Mixed Leaf Storm + Anti-Meta Type: B)
 Sceptile-Mega @ Sceptilite
 Ability: Overgrow
 EVs: 48 Atk / 252 SpA / 208 Spe
@@ -2843,6 +3133,7 @@ Mild Nature
 - Hidden Power [Fire] / Quick Attack / Grass Whistle
 - Dragon Pulse / Quick Attack / Grass Whistle
 
+(Mixed Leaf Storm + Anti-Meta Type: C)
 Sceptile-Mega @ Sceptilite
 Ability: Overgrow
 EVs: 24 HP / 252 SpA / 24 SpD / 208 Spe
@@ -2852,6 +3143,7 @@ Mild Nature
 - Substitute
 - Hidden Power [Electric]
 
+(Mixed Leaf Storm + Anti-Meta Type: D)
 Sceptile-Mega @ Sceptilite
 Ability: Overgrow
 EVs: 24 HP / 252 SpA / 24 SpD / 208 Spe
@@ -2861,6 +3153,7 @@ Mild Nature
 - Hidden Power [Fire] / Quick Attack / Grass Whistle
 - Dragon Pulse / Quick Attack / Grass Whistle
 
+(Sub-Sub Frenzy Plant)
 Sceptile @ Petaya Berry
 Ability: Overgrow
 EVs: 252 SpA / 4 SpD / 252 Spe
@@ -2870,6 +3163,7 @@ Hasty / Timid Nature
 - Focus Blast / Hidden Power [Fire] / Earthquake / Grass Whistle
 - Rock Slide / Hidden Power [Fire] / Earthquake / Grass Whistle
 
+(Giga Impact)
 Slaking @ Choice Band
 Ability: Truant
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -2879,6 +3173,7 @@ Jolly Nature
 - Fire Punch
 - Ice Punch
 
+(Slaking Stall)
 Slaking @ Leftovers
 Ability: Truant
 EVs: 116 HP / 252 Def / 140 SpD
@@ -2889,6 +3184,7 @@ IVs: 0 Atk
 - Slack Off
 - Rest
 
+(278 Speed Tier with Luck)
 Smeargle @ Quick Claw / Sitrus Berry / Mental Herb
 Ability: Own Tempo
 EVs: 252 Def / 4 SpD / 252 Spe
@@ -2899,6 +3195,7 @@ IVs: 0 Atk
 - Transform
 - Lovely Kiss / King's Shield / Substitute / Spiky Shield
 
+(Yawn-Endure)
 Stunfisk @ Petaya Berry
 Ability: Sand Veil
 EVs: 248 HP / 252 SpA / 8 SpD
@@ -2909,6 +3206,7 @@ IVs: 0 Atk
 - Earth Power
 - Thunderbolt
 
+(Defensively Bulky Offense)
 Type: Null @ Eviolite
 Ability: Battle Armor
 EVs: 232 HP / 32 Atk / 244 Def
@@ -2918,6 +3216,7 @@ Impish Nature
 - Return / Double Hit
 - Substitute / Hidden Power [Fire] / Flame Charge / Rock Slide / Rest
 
+(Pure Stall)
 Type: Null @ Eviolite
 Ability: Battle Armor
 EVs: 232 HP / 244 Def / 32 SpD
@@ -2927,6 +3226,7 @@ Impish Nature
 - Rest
 - Return / Tackle / Metal Sound
 
+(Bulky Choice Specs)
 Volcanion @ Choice Specs
 Ability: Water Absorb
 EVs: 168 HP / 252 SpA / 88 SpD
@@ -2937,6 +3237,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Hidden Power [Electric] / Hidden Power [Ice]
 
+(Choice Scarf Nuke)
 Volcanion @ Choice Scarf
 Ability: Water Absorb
 EVs: 40 HP / 252 SpA / 216 Spe
@@ -2947,6 +3248,7 @@ IVs: 0 Atk
 - Sludge Wave
 - Focus Blast
 
+(Anti-Mimikyu Water Nuke)
 Volcanion @ Waterium Z
 Ability: Water Absorb
 EVs: 104 HP / 228 Def / 176 Spe
@@ -2956,6 +3258,7 @@ Modest Nature
 - Will-O-Wisp
 - Flame Charge / Sludge Wave
 
+(Not A Set)
 Hitmonlee (M) @ Normal Gem
 Ability: Unburden
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -2965,6 +3268,7 @@ Adamant Nature
 - Stone Edge
 - Blaze Kick
 
+(Blaziken Wanna-Be)
 Hitmonlee (M) @ Liechi Berry
 Ability: Unburden
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -2974,6 +3278,7 @@ Adamant Nature
 - Substitute
 - Rock Slide
 
+(Defensively Bulky Counter)
 Vigoroth @ Eviolite
 Ability: Vital Spirit
 EVs: 248 HP / 252 Def / 8 Spe
@@ -2983,6 +3288,7 @@ Impish Nature
 - Counter
 - Rock Tomb
 
+(Defensively Bulky Offense)
 Vigoroth @ Eviolite
 Ability: Vital Spirit
 EVs: 248 HP / 180 Def / 60 SpD / 20 Spe
@@ -2992,6 +3298,7 @@ Impish Nature
 - Slack Off
 - Return / Chip Away
 
+(SUPREME WATER NUKE)
 Araquanid @ Waterium Z
 Ability: Water Bubble
 EVs: 184 HP / 248 Atk / 76 SpD
@@ -3001,6 +3308,7 @@ Adamant / Brave Nature
 - Rest
 - Confide / Iron Defense / Icy Wind / Lunge / Ice Beam / Blizzard
 
+(Defensively Bulky Gale Wings Nuke)
 Talonflame @ Flyinium Z
 Ability: Gale Wings
 EVs: 164 HP / 164 Atk / 132 Def / 48 Spe
@@ -3010,6 +3318,7 @@ Jolly Nature
 - Brave Bird
 - Swords Dance
 
+(Choice Band)
 Stakataka @ Choice Band
 Ability: Beast Boost
 EVs: 180 HP / 124 Atk / 204 SpD
@@ -3020,6 +3329,7 @@ IVs: 0 Spe
 - Rock Blast
 - Earthquake
 
+(Assualt Vest)
 Stakataka @ Assault Vest
 Ability: Beast Boost
 EVs: 232 HP / 232 Atk / 44 SpD
@@ -3030,6 +3340,7 @@ IVs: 0 Spe
 - Earthquake
 - Stone Edge
 
+(Bulky Dark Type Nuke)
 Incineroar @ Incinium Z
 Ability: Intimidate
 EVs: 120 HP / 176 Atk / 36 SpD / 176 Spe
@@ -3039,6 +3350,7 @@ Jolly Nature
 - Bulk Up
 - Flare Blitz
 
+(Fake Out Dark Type Nuke)
 Incineroar @ Incinium Z
 Ability: Intimidate
 EVs: 248 HP / 128 Atk / 132 SpD
@@ -3048,6 +3360,7 @@ Adamant Nature
 - Flare Blitz
 - Bulk Up
 
+(Specially Bulky AV Anti-Meta Drape)
 Drapion @ Assault Vest
 Ability: Battle Armor
 EVs: 120 HP / 160 Atk / 192 SpD / 36 Spe
@@ -3057,6 +3370,7 @@ Careful Nature
 - Poison Jab
 - Fire Fang
 
+(Defenively Bulky + Speed Control)
 Sharpedo-Mega @ Sharpedonite
 Ability: Speed Boost
 EVs: 144 HP / 212 Atk / 148 Def / 4 SpD
@@ -3066,6 +3380,7 @@ Brave Nature
 - Protect
 - Snarl
 
+(Special Set)
 Sharpedo-Mega @ Sharpedonite
 Ability: Speed Boost
 EVs: 252 Atk / 24 SpA / 232 Spe
@@ -3075,6 +3390,7 @@ Naive Nature
 - Blizzard
 - Rock Tomb / Psychic Fangs / Liquidation
 
+(Defensively Bulky Special Choice Specs)
 Rotom-Mow @ Choice Specs
 Ability: Levitate
 EVs: 248 HP / 144 Def / 116 SpA
@@ -3085,6 +3401,7 @@ IVs: 0 Atk
 - Hidden Power [Ice]
 - Thunder
 
+(Gigavolt Nuke)
 Rotom-Mow @ Electrium Z
 Ability: Levitate
 EVs: 200 HP / 252 SpA / 8 SpD / 48 Spe
@@ -3095,6 +3412,7 @@ IVs: 0 Atk
 - Will-O-Wisp / Electroweb
 - Charge / Electroweb
 
+(Problematic Nuker)
 Rotom-Heat @ Electrium Z
 Ability: Levitate
 EVs: 36 HP / 252 SpA / 4 SpD / 216 Spe
@@ -3105,6 +3423,7 @@ IVs: 0 Atk
 - Charge
 - Electroweb
 
+(Choice Scarf + Mind Games)
 Rampardos @ Choice Scarf
 Ability: Mold Breaker
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -3114,6 +3433,7 @@ Jolly Nature
 - Earthquake
 - Fire Punch
 
+(Fake-Out + Fighting Nuke)
 Toxicroak @ Fightinium Z
 Ability: Dry Skin
 EVs: 12 HP / 112 Atk / 160 SpA / 76 SpD / 148 Spe
@@ -3123,6 +3443,7 @@ Mild Nature
 - Gunk Shot
 - Focus Punch
 
+(Defensively Bulky Stored Power)
 Musharna @ Wiki Berry
 Ability: Synchronize
 EVs: 244 HP / 168 Def / 96 SpD
@@ -3133,6 +3454,7 @@ IVs: 0 Atk
 - Stored Power
 - Moonlight
 
+(Cotton Guard Prankster)
 Banette-Mega @ Banettite
 Ability: Cursed Body
 EVs: 252 HP / 4 Atk / 252 Def
@@ -3142,6 +3464,7 @@ Impish Nature
 - Phantom Force
 - Taunt / Pain Split
 
+(Physical Disruptor Prankster)
 Murkrow @ Eviolite
 Ability: Prankster
 EVs: 252 HP / 200 Def / 56 SpD
@@ -3152,6 +3475,7 @@ IVs: 0 Atk
 - Roost
 - Night Shade / Dark Pulse / Foul Play
 
+(Dual Stab)
 Beedrill-Mega @ Beedrillite
 Ability: Swarm
 EVs: 48 HP / 252 Atk / 208 Spe
@@ -3161,6 +3485,7 @@ Adamant Nature
 - Poison Jab
 - Substitute / Curse
 
+(Defensively Bulky Iron-D)
 Beedrill-Mega @ Beedrillite
 Ability: Swarm
 EVs: 60 HP / 96 Atk / 252 Def / 100 Spe
@@ -3170,6 +3495,7 @@ Adamant Nature
 - Roost
 - Struggle Bug
 
+(SD + Iron-D + Recovery)
 Beedrill-Mega @ Beedrillite
 Ability: Swarm
 EVs: 252 HP / 4 Atk / 252 Def
@@ -3179,6 +3505,7 @@ Adamant Nature
 - Roost
 - Fury Cutter
 
+(Struggle Bug Chip -> Offense)
 Beedrill-Mega @ Beedrillite
 Ability: Swarm
 EVs: 72 HP / 136 Atk / 92 SpD / 208 Spe
@@ -3188,6 +3515,7 @@ Adamant Nature
 - Drill Run
 - X-Scissor
 
+(Anti-Stat Drop Stall)
 Milotic @ Choice Specs
 Ability: Competitive
 EVs: 232 HP / 228 Def / 48 SpA
@@ -3198,6 +3526,7 @@ IVs: 0 Atk
 - Icy Wind
 - Mirror Coat
 
+(Defensively Bulky Laser Focus)
 Throh @ Fightinium Z
 Ability: Mold Breaker
 EVs: 248 HP / 48 Atk / 180 Def / 32 SpD
@@ -3207,6 +3536,7 @@ Impish Nature
 - Rest
 - Laser Focus
 
+(DOU Bulky Status Stall)
 Arcanine @ Wiki Berry
 Ability: Intimidate
 EVs: 248 HP / 244 SpD / 16 Spe
@@ -3217,6 +3547,7 @@ IVs: 0 Atk
 - Morning Sun
 - Snarl
 
+(Defensively Bulky Fake-Out Curse)
 Kangaskhan @ Normalium Z
 Ability: Inner Focus
 EVs: 128 HP / 32 Atk / 252 Def / 96 Spe
@@ -3226,6 +3557,7 @@ Adamant Nature
 - Double-Edge
 - Chip Away
 
+(Choice Scarf Head Smash)
 Emboar @ Choice Scarf
 Ability: Reckless
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -3235,6 +3567,7 @@ Jolly Nature
 - Superpower
 - Earthquake
 
+(Choice Scarf)
 Roserade @ Choice Scarf
 Ability: Technician
 EVs: 56 HP / 252 SpA / 200 Spe
@@ -3245,6 +3578,7 @@ IVs: 0 Atk
 - Dazzling Gleam / Leaf Storm / Extrasensory
 - Sludge Bomb
 
+(Choice Band)
 Lycanroc-Dusk @ Choice Band
 Ability: Tough Claws
 EVs: 252 Atk / 4 SpD / 252 Spe
@@ -3254,6 +3588,7 @@ Jolly Nature
 - Fire Fang
 - Brick Break / Iron Head
 
+(Electrium-Z)
 Klinklang @ Electrium Z
 Ability: Clear Body
 EVs: 104 HP / 252 Atk / 40 SpD / 112 Spe
@@ -3263,6 +3598,7 @@ Adamant Nature
 - Gear Grind
 - Shift Gear
 
+(Electro Web)
 Ampharos-Mega @ Ampharosite
 Ability: Static
 EVs: 40 Def / 252 SpA / 216 Spe
@@ -3273,6 +3609,7 @@ IVs: 0 Atk
 - Magnet Rise
 - Dragon Pulse
 
+(Curse)
 Steelix-Mega @ Steelixite
 Ability: Sturdy
 EVs: 248 HP / 44 Atk / 216 Def
@@ -3283,6 +3620,7 @@ IVs: 0 Spe
 - Rock Blast
 - Earthquake
 
+(Iron-D Stall)
 Mandibuzz (F) @ Darkinium Z / Leftovers
 Ability: Overcoat
 EVs: 144 HP / 164 Def / 200 Spe
@@ -3292,6 +3630,7 @@ Jolly Nature
 - Foul Play
 - Taunt
 
+(Acid Armor Stall)
 Manaphy @ Chesto Berry
 Ability: Hydration
 EVs: 248 HP / 148 Def / 112 SpD
@@ -3302,6 +3641,7 @@ IVs: 0 Atk
 - Calm Mind
 - Scald
 
+(AV Iron Fist Abuser)
 Conkeldurr @ Assault Vest
 Ability: Iron Fist
 EVs: 244 HP / 156 Atk / 108 SpD
@@ -3311,6 +3651,7 @@ Adamant Nature
 - Stone Edge
 - Earthquake
 
+(Gigavolt Havoc)
 Zapdos @ Electrium Z
 Ability: Pressure
 EVs: 208 HP / 136 Def / 164 SpA
@@ -3321,6 +3662,7 @@ IVs: 0 Atk
 - Hidden Power [Ice]
 - Heat Wave
 
+(Choice Specs Type: A)
 Tentacruel @ Choice Specs
 Ability: Liquid Ooze
 EVs: 20 HP / 252 SpA / 236 Spe
@@ -3331,6 +3673,7 @@ IVs: 0 Atk
 - Hidden Power [Fire]
 - Acid Spray
 
+(Choice Specs Type: B)
 Tentacruel @ Choice Specs
 Ability: Liquid Ooze
 EVs: 160 HP / 240 SpA / 108 Spe
@@ -3341,6 +3684,7 @@ IVs: 0 Atk
 - Ice Beam
 - Sludge Wave
 
+(Defensively Bulky Acid Armor + Counter)
 Goodra @ Wiki Berry
 Ability: Sap Sipper
 EVs: 208 HP / 252 Def / 48 SpA
@@ -3351,6 +3695,7 @@ IVs: 0 Atk
 - Thunderbolt
 - Counter
 
+(Choice Specs)
 Goodra @ Choice Specs
 Ability: Sap Sipper
 EVs: 208 HP / 252 Def / 48 SpA
@@ -3361,6 +3706,7 @@ IVs: 0 Atk
 - Flamethrower
 - Sludge Wave
 
+(Choice Scarf)
 Sawsbuck-Autumn @ Choice Scarf
 Ability: Serene Grace
 EVs: 32 HP / 232 Atk / 28 Def / 216 Spe
@@ -3370,6 +3716,7 @@ Jolly Nature
 - Jump Kick
 - Seed Bomb
 
+(Electrium-Z Magnet Rise)
 Xurkitree @ Electrium Z
 Ability: Beast Boost
 EVs: 184 HP / 252 Def / 72 Spe
@@ -3380,6 +3727,7 @@ IVs: 0 Atk
 - Hidden Power [Ice]
 - Tail Glow
 
+(Choice Specs_
 Eelektross @ Choice Specs
 Ability: Levitate
 EVs: 248 HP / 228 Def / 20 SpA / 12 SpD
@@ -3390,6 +3738,7 @@ IVs: 0 Atk / 0 Spe
 - Giga Drain
 - Flamethrower
 
+(Iron-D Q-Dance)
 Dustox @ Charti Berry
 Ability: Shield Dust
 EVs: 72 HP / 220 Def / 216 Spe
@@ -3400,6 +3749,7 @@ IVs: 0 Atk
 - Quiver Dance
 - Bug Buzz
 
+(Anti Stat Drop)
 Wigglytuff @ Choice Scarf
 Ability: Competitive
 EVs: 148 Def / 108 SpA / 252 Spe
@@ -3410,6 +3760,7 @@ IVs: 0 Atk
 - Fire Blast
 - Ice Beam
 
+(Sub-Sub Swarm Stab)
 Scolipede @ Liechi Berry
 Ability: Swarm
 EVs: 12 HP / 244 Atk / 252 Spe
@@ -3419,6 +3770,7 @@ Adamant Nature
 - Swords Dance
 - Poison Jab
 
+(Speed Boost Poison Nuke)
 Scolipede @ Poisonium Z
 Ability: Speed Boost
 EVs: 4 HP / 252 Atk / 252 Spe
@@ -3428,6 +3780,7 @@ Adamant Nature
 - Megahorn
 - Swords Dance
 
+(Choice Specs)
 Beheeyem @ Choice Specs
 Ability: Analytic
 EVs: 200 HP / 56 SpA / 252 SpD
@@ -3438,6 +3791,7 @@ IVs: 0 Atk
 - Shadow Ball
 - Hidden Power [Ice] / Hidden Power [Fire]
 
+(Hyper Beam Specs Nuke)
 Sylveon @ Choice Specs
 Ability: Pixilate
 EVs: 252 HP / 60 Def / 172 SpA / 24 SpD
@@ -3448,6 +3802,7 @@ IVs: 0 Atk
 - Hidden Power [Rock]
 - Echoed Voice
 
+(Eviolite Bulky)
 Piloswine @ Eviolite
 Ability: Thick Fat
 EVs: 248 HP / 4 Atk / 136 Def / 120 SpD
@@ -3457,6 +3812,7 @@ Impish Nature
 - Stone Edge
 - Endeavor
 
+(Eviolite Set Up)
 Piloswine @ Eviolite
 Ability: Thick Fat / Oblivious
 EVs: 248 HP / 4 Atk / 136 Def / 120 SpD
@@ -3466,6 +3822,7 @@ Impish Nature
 - Rest
 - Avalanche
 
+(Outspeeds Non-Jolly Gyarados)
 Magneton @ Electrium Z
 Ability: Sturdy
 EVs: 4 HP / 252 SpA / 252 Spe
@@ -3476,6 +3833,7 @@ IVs: 0 Atk
 - Metal Sound
 - Protect
 
+(Acid Armor Recycle Stall)
 Muk-Alola @ Wiki Berry
 Ability: Gluttony
 EVs: 248 HP / 160 Def / 100 SpD
@@ -3486,6 +3844,7 @@ IVs: 0 Atk
 - Acid Spray
 - Dark Pulse
 
+(Yawn Fire Nuke)
 Torkoal @ Firium Z
 Ability: Drought
 EVs: 248 HP / 184 SpA / 76 SpD
@@ -3495,6 +3854,7 @@ Quiet Nature
 - Overheat
 - Rock Slide
 
+(ORAS Choice Band)
 Forretress @ Choice Band
 Ability: Sturdy
 EVs: 252 HP / 252 Atk / 4 SpD
@@ -3505,6 +3865,7 @@ IVs: 0 Spe
 - Gyro Ball
 - Counter
 
+(Yawn Fake Tears)
 Vaporeon @ Waterium Z
 Ability: Water Absorb
 EVs: 104 HP / 232 Def / 108 SpA / 64 SpD
@@ -3515,6 +3876,7 @@ IVs: 0 Atk
 - Protect
 - Hydro Pump
 
+(Waterium-Z Head Smash)
 Basculin @ Waterium Z
 Ability: Mold Breaker
 EVs: 16 HP / 252 Atk / 240 Spe
@@ -3524,6 +3886,18 @@ Jolly Nature
 - Head Smash
 - Waterfall
 
+(Zoble Roar Stall)
+Kyurem @ Normalium Z
+Ability: Pressure
+EVs: 224 HP / 136 Def / 148 SpD
+Bold Nature
+IVs: 0 Atk
+- Noble Roar
+- Roost
+- Ice Beam
+- Earth Power / Rest
+
+(Feather Dance or Flying Nuke)
 Hawlucha @ Flyinium Z
 Ability: Mold Breaker
 EVs: 248 Atk / 68 Def / 192 Spe

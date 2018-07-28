@@ -1,5 +1,5 @@
-﻿//All Classifications of 1v1 Pokemon {Contributors: VG Jungle (My man), }  
-Index: (WC) = Want Classification from others
+﻿//All Classifications of 1v1 Pokemon {Contributors: VG Jungle}  
+//Index: (WC) = Want Classification from others
 
 S Tier
 Gyarados: Standard
@@ -55,16 +55,16 @@ Sawk: Fast
 Tyranitar-Mega: Power
 
 B- Tier
-Blastoise-Mega: Technical (WC)
+Blastoise-Mega: Technical 
 Blissey: Technical
-Buzzwole: (WC)
+Buzzwole: Standard
 Celesteela: Technical
-Crustle: Fast (WC)
+Crustle: Fast 
 Diancie-Mega: Power
-Durant: Fast (WC)
+Durant: Fast 
 Gengar-Mega: Technical
 Hoopa-Unbound: Fast
-Kommo-o: Power (WC)
+Kommo-o: Power 
 Swampert-Mega: Technical
 Togekiss: Technical
 Volcorona: Technical 
@@ -84,8 +84,8 @@ Medicham-Mega: Power
 Pheromosa: Fast
 Porygon2: Technical
 Scizor-Mega: Power
-Tapu-Bulu:  Fast (WC)
-Terrakion: Fast (WC)
+Tapu-Bulu:  Power 
+Terrakion: Fast 
 Umbreon: Technical
 Victini: Fast
 Vivillion: Technical
@@ -102,7 +102,7 @@ Skarmory: Fast
 Suicune: Technical
 
 D Rank:
-Abomasnow-Mega: Power (WC)
+Abomasnow-Mega: Power 
 Alakazam-Mega: Fast 
 Aron: Fast
 Azumarill: Power

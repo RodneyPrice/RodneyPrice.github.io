@@ -26,7 +26,7 @@ body{
     background-color: transparent;
     text-align: left;
     height: 90vh;
-    width: 40vw;
+    width: 100vw;
 }
 
 ul {
@@ -104,3 +104,27 @@ a:hover {
 }
 
 
+
+.find() {
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+
+.scrollbar {
+     height:150px;
+     overflow-y: scroll;
+}
+
+.wrapper {
+    width:600px; 
+    overflow-y:scroll; 
+    position:relative;
+    height: 300px;
+}

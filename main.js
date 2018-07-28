@@ -1,5 +1,15 @@
 /*jslint vars: true, plusplus: true, devel: true, nomen: true, regexp: true, indent: 4, maxerr: 50 */
 /*global $, window, fetch */
+
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#Pkmnlist li").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+
 var pokemon, pokesets;
 
 function readInSets() {
@@ -48,6 +58,7 @@ function encapsulateSets(pokemonSets){
 
 function buildPokemon(set){
     list = set.split('\n')
+    list = list.slice(1)
     const head = list[0]
     if (head == '') return undefined
     let [na, it] = head.split(/ @ /), mon = {moves: []}
@@ -82,7 +93,7 @@ function generateHTMLList(){
     for (let name in pokemon){
         var li = template.clone(true)
         li.get(0).id = idFromName(name)
-        li.find(".PkmnLink").get(0).href = ("#/" + name)
+        li.find(".Pkmndatabtn").get(0) //This line needs to be fix to fit the buttons we are using.
         li.find(".PkmnName").get(0).innerHTML = name
         li.find(".PkmnIcon").find('img').get(0).src = "../PokemonIcons/" + 
             name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
@@ -91,5 +102,7 @@ function generateHTMLList(){
     ul.find("li:nth-child(1)").get(0).style.display = "none"
 }
 
+
+
 readInSets();
-console.log(5/6)
+console.log("1 + 1 is 2 and everything that follows is true")
