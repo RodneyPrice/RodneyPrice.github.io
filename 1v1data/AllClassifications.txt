@@ -1,22 +1,26 @@
 ﻿//All Classifications of 1v1 Pokemon {Contributors: VG Jungle}  
-//Index: (WC) = Want Classification from others
+//Index: (WC) = Want Classification from others 
+//Power Means strong but weak bulk
+//Fast Means Overwhemlmingly strong at first but useless thereafter
+//Technical Means Bulky, Set Up, Stall etc.
+//First Classification means Primary and then second one is secondnary class
 
 S Tier
 Gyarados: Standard
 
 A+ Tier
-Charizard-Mega-X: Power
-Charizard-Mega-Y: Fast
+Charizard-Mega-X: Power - Fast
+Charizard-Mega-Y: Fast - Power
 Dragonite: Fast
-Magearna: Technical
-Metegross-Mega: Power
-Mimikyu: Technical
+Magearna: Technical - Fast
+Metegross-Mega: Power 
+Mimikyu: Technical - Fast
 
 A Tier
 Landorus-T: Power
-Tapu-Lele: Fast 
-Snorlax: Technical 
-Zygarde-C: Technical 
+Tapu-Lele: Fast - Power
+Snorlax: Technical
+Zygarde-C: Technical  
 Lopunny-Mega: Fast 
 Magnezone: Fast
 Porygon-Z: Fast 
@@ -24,7 +28,7 @@ Slowbro-Mega: Technical
 Venusaur-Mega: Technical
 
 B+ Tier
-Aegislash: Fast 
+Aegislash: Fast - Power
 Altaria-Mega: Technical
 Aggron-Mega: Technical
 Donphan: Fast
@@ -118,3 +122,52 @@ Stunfisk: Technical
 Type:Null: Technical
 Volcanion: Technical
 
+U Rank:
+Hitmonlee: Fast
+Vigoroth: Technical
+Araquanid: Power
+Talonflame: Fast
+Stakataka: Fast
+Incineroar: Technical
+Drapion: Technical
+Sharpedo-Mega: Technical - Fast
+Rotom-Mow: Fast
+Rotom-Heat: Fast
+Rampardos: Fast
+Toxicroak: Fast
+Musharna: Technical
+Banette-Mega: Technical
+Murkrow: Technical
+Beedrill-Mega: Fast
+Milotic: Technical
+Throh: Technical - Fast
+Arcanine: Technical
+Kangaskhan: Fast
+Emboar: Fast
+Roserade: Fast
+Lycanroc-Dusk: Power
+Klinglang: Fast
+Ampharos-Mega: Power
+Steelix-Mega: Technical
+Mandibuzz: Technical
+Manaphy: Technical
+Conkeldurr: Technical - Power
+Zapdos: Fast
+Tentacruel: Power
+Goodra: Tehnical
+Sawsbuck-Autumn: Fast
+Xurkitree: Fast
+Elektross: Power - Technical
+Dustox: Technical
+Scolipede: Fasst
+Beheeyem: Power
+Sylveon: Fast
+Piloswine: Technical
+Magneton: Fast
+Muk-Alola: Technical
+Torkoal: Fast
+Forretress: Power
+Vaporeon: Fast - Technical
+Basculin: Fast
+Kyurem: Technical
+Hawlucha: Fast - Technical

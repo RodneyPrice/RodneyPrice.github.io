@@ -3727,7 +3727,7 @@ IVs: 0 Atk
 - Hidden Power [Ice]
 - Tail Glow
 
-(Choice Specs_
+(Choice Specs)
 Eelektross @ Choice Specs
 Ability: Levitate
 EVs: 248 HP / 228 Def / 20 SpA / 12 SpD

@@ -12,6 +12,7 @@ $(document).ready(function(){
 
 var pokemon, pokesets;
 
+//These Functions Read the 1v1 Data
 function readInSets() {
     fetch("/1v1data/1v1Sets.txt").then(response =>{
         if (response.ok){
@@ -27,6 +28,15 @@ function readViability(){
         } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
     }).catch(error => console.error(error))
 }
+
+function readType() {
+    fetch("/1v1data/AllClassifications.txt").then(response => {
+        if (response.ok) {
+            response.text().then(text => updateRanking(text))
+        } else console.log("Could not access 1v1 Types" + response.status + ": " + response.statusText)
+    }).catch(error => console.error(error))
+}
+
 
 function updateRanking(text){
     text = text.split(/\n{3}|\r\n\r\n\r\n/)
