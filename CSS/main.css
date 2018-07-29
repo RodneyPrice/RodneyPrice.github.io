@@ -123,10 +123,26 @@ a:hover {
 
 
 .PkmnTeam {
-    background-color: black;
     width: 100%
 }
 
 .PkmnRanking {
     float: left;
+}
+
+.Pkmn1 {
+    width: 33%
+}
+
+
+
+.PkmnTeamImg {
+    height: 50px;
+    width: 127px;
+    margin: 15px 20px;
+}
+
+.Pkmn1Img {
+    height: 60px;
+    width: 70px;
 }

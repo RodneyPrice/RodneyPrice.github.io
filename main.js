@@ -102,6 +102,11 @@ function generateHTMLList(){
     ul.find("li:nth-child(1)").get(0).style.display = "none"
 }
 
+//Create a function or Python Function if you want that can rip sprite data from PS Dex (The animated GIFS) and place them on the Pkmn Team Fluid.
+
+//Create a function or Python Function that will read Classifications.txt and be able to do the same as what readviability has been doing
+
+
 
 
 readInSets();
