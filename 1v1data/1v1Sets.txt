@@ -434,7 +434,7 @@ Jolly Nature
 - Swords Dance
 - Substitute
 
-(Choiced Scarf)
+(Choice Scarf)
 Landorus-Therian (M) @ Choice Scarf
 Ability: Intimidate
 EVs: 232 Atk / 28 Def / 248 Spe
