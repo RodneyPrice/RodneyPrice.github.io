@@ -1153,6 +1153,27 @@ Bold Nature
 - Moonblast
 - Encore
 
+(Bulky Fairium-Z Nuke)
+Primarina @ Fairium Z
+Ability: Torrent
+EVs: 248 HP / 8 Def / 188 SpA / 64 SpD
+Modest Nature
+- Hydro Cannon
+- Moonblast
+- Aqua Jet
+- Encore / Substitute / Sparkling Aria / Hydro Pump / Hidden Power [Fire]
+
+(Defensively Bulky Fairium-Z Nuke)
+Primarina @ Fairium Z
+Ability: Torrent
+EVs: 248 HP / 144 Def / 52 SpA / 64 SpD
+Modest Nature
+IVs: 0 Atk
+- Hydro Cannon
+- Moonblast
+- Encore / Sparkling Aria / Hydro Pump / Hidden Power [Fire]
+- Substitute / Sparkling Aria / Hydro Pump / Hidden Power [Fire]
+
 (Bulky Rain Dance Water Nuke)
 Tapu Fini @ Waterium Z
 Ability: Misty Surge
@@ -1185,6 +1206,46 @@ IVs: 0 Atk
 - Nature's Madness
 - Brine
 - Moonblast
+
+(Defensive Electrium-Z Nuke)
+Zeraora @ Electrium Z  
+Ability: Volt Absorb  
+EVs: 184 Atk / 132 Def / 192 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Bulk Up  
+- Charge / Substitute / Fake Out
+- Taunt / Substitute / Fake Out
+
+(Life Orb Mixed)
+Zeraora @ Life Orb  
+Ability: Volt Absorb  
+EVs: 200 Atk / 220 SpA / 88 Spe  
+Naive / Hasty Nature  
+- Fake Out  
+- Grass Knot  
+- Plasma Fists  
+- Hidden Power [Ice]
+
+(Speedy Life Orb Mixed)
+Zeraora @ Life Orb  
+Ability: Volt Absorb  
+EVs: 124 Atk / 192 SpA / 192 Spe  
+Naive / Hasty Nature  
+- Fake Out  
+- Grass Knot  
+- Plasma Fists  
+- Close Combat
+
+(Bulk Up Charge Nuke)
+Zeraora @ Electrium Z  
+Ability: Volt Absorb  
+EVs: 160 Atk / 156 Def / 192 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Bulk Up  
+- Outrage  
+- Charge / Substitute / Fake Out
 
 (Sub-Sub Reversal)
 Blaziken @ Blazikenite / Life Orb / Liechi Berry
@@ -1749,6 +1810,17 @@ Sassy Nature
 - Dark Pulse
 - Trick Room
 - Gunk Shot / Substitute / Nasty Plot
+
+(Defensive Specs Unbound)
+Hoopa-Unbound @ Choice Specs
+Ability: Magician
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Grass Knot
+- Psychic / Psyshock
+- Dark Pulse
+- Hidden Power [Ice] / Focus Blast
 
 (Standard Soulblaze)
 Kommo-o @ Kommonium Z
@@ -3258,7 +3330,451 @@ Modest Nature
 - Will-O-Wisp
 - Flame Charge / Sludge Wave
 
-(Not A Set)
+(Wisp Bulk Up Lariat)
+Incineroar @ Incinium Z
+Ability: Intimidate
+EVs: 120 HP / 176 Atk / 36 SpD / 176 Spe
+Jolly Nature
+- Will-O-Wisp
+- Darkest Lariat
+- Bulk Up
+- Flare Blitz
+
+(Fake Out Bulk Up)
+Incineroar @ Incinium Z
+Ability: Intimidate
+EVs: 248 HP / 128 Atk / 132 SpD
+Adamant Nature
+- Fake Out
+- Darkest Lariat
+- Flare Blitz
+- Bulk Up
+
+(Zoble Roar)
+Kyurem @ Normalium Z / Groundium Z
+Ability: Pressure
+EVs: 224 HP / 136 Def / 148 SpD
+Bold Nature
+IVs: 0 Atk
+- Noble Roar
+- Roost
+- Ice Beam
+- Earth Power / Rest
+
+(Anti Gyarados Nuke)
+Magneton @ Electrium Z
+Ability: Sturdy
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Zap Cannon
+- Electroweb
+- Metal Sound / Mirror Coat
+- Protect / Mirror Coat
+
+(Iron-D Foul Play Stall)
+Mandibuzz (F) @ Darkinium Z / Leftovers
+Ability: Overcoat
+EVs: 144 HP / 164 Def / 200 Spe
+Jolly Nature
+- Iron Defense
+- Roost
+- Foul Play
+- Taunt
+
+(Prankester Feather Dance Physical Stall)
+Murkrow @ Eviolite
+Ability: Prankster
+EVs: 252 HP / 200 Def / 56 SpD
+Bold Nature
+IVs: 0 Atk
+- Feather Dance
+- Taunt
+- Roost
+- Night Shade / Dark Pulse / Foul Play
+
+(Ultra Bulky Attacker)
+Piloswine @ Eviolite
+Ability: Thick Fat
+EVs: 248 HP / 4 Atk / 136 Def / 120 SpD
+Impish Nature
+- Earthquake
+- Ice Shard
+- Stone Edge
+- Endeavor
+
+(Ultra Bulky Curse Amnesia Stall)
+Piloswine @ Eviolite
+Ability: Thick Fat / Oblivious
+EVs: 248 HP / 4 Atk / 136 Def / 120 SpD
+Impish Nature
+- Curse
+- Amnesia
+- Rest
+- Avalanche
+
+(Scarf Attacker)
+Rampardos @ Choice Scarf
+Ability: Mold Breaker
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Head Smash
+- Superpower
+- Earthquake
+- Fire Punch
+
+(Fly Nuke Wisp)
+Talonflame @ Flyinium Z
+Ability: Gale Wings
+EVs: 164 HP / 164 Atk / 132 Def / 48 Spe
+Jolly Nature
+- Will-O-Wisp / Taunt / Substitute
+- Roost / Flare Blitz / Substitute
+- Brave Bird
+- Swords Dance
+
+(Bulky Stall Water Nuke)
+Araquanid @ Waterium Z
+Ability: Water Bubble
+EVs: 184 HP / 248 Atk / 76 SpD
+Adamant / Brave Nature
+- Liquidation
+- Toxic
+- Rest
+- Confide / Iron Defense / Icy Wind / Lunge / Ice Beam / Blizzard
+
+(Bulky AV Attacker)
+Conkeldurr @ Assault Vest
+Ability: Iron Fist
+EVs: 244 HP / 156 Atk / 108 SpD
+Adamant Nature
+- Thunder Punch
+- Hammer Arm
+- Stone Edge
+- Earthquake
+
+(Feather Dance Flynium Z Nuker)
+Hawlucha @ Flyinium Z
+Ability: Mold Breaker
+EVs: 248 Atk / 68 Def / 192 Spe
+Jolly Nature
+- Sky Attack
+- Feather Dance
+- Roost
+- High Jump Kick
+
+(Chesto Hydration Stall)
+Manaphy @ Chesto Berry
+Ability: Hydration
+EVs: 248 HP / 148 Def / 112 SpD
+Bold Nature
+IVs: 0 Atk
+- Rest
+- Acid Armor
+- Calm Mind
+- Scald
+
+(Scarf Anti-Steel Attacker)
+Roserade @ Choice Scarf
+Ability: Technician
+EVs: 56 HP / 252 SpA / 200 Spe
+Modest Nature
+IVs: 0 Atk
+- Hidden Power [Fire]
+- Petal Dance / Grass Knot
+- Dazzling Gleam / Leaf Storm / Extrasensory
+- Sludge Bomb
+
+(Electric Web Nuke)
+Rotom-Heat @ Electrium Z
+Ability: Levitate
+EVs: 36 HP / 252 SpA / 4 SpD / 216 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunder
+- Overheat
+- Charge
+- Electroweb
+
+(Defensively Bulky Specs Attacker)
+Rotom-Mow @ Choice Specs
+Ability: Levitate
+EVs: 248 HP / 144 Def / 116 SpA
+Bold Nature
+IVs: 0 Atk
+- Leaf Storm
+- Thunderbolt
+- Hidden Power [Ice]
+- Thunder
+
+(Electric Wisp / Charge Nuker)
+Rotom-Mow @ Electrium Z
+Ability: Levitate
+EVs: 200 HP / 252 SpA / 8 SpD / 48 Spe
+Modest Nature
+IVs: 0 Atk
+- Thunder
+- Leaf Storm
+- Will-O-Wisp / Electroweb
+- Charge / Electroweb
+
+(Bulky Electric Wisp Web Nuke)
+Rotom-Wash @ Electrium Z  
+Ability: Levitate  
+EVs: 248 HP / 20 Def / 72 SpA / 120 SpD / 48 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Hydro Pump  
+- Will-O-Wisp  
+- Electroweb
+
+(Bulky Specs Hyper Beam)
+Sylveon @ Choice Specs
+Ability: Pixilate
+EVs: 252 HP / 60 Def / 172 SpA / 24 SpD
+Modest Nature
+IVs: 0 Atk
+- Hyper Beam
+- Hyper Voice
+- Hidden Power [Rock]
+- Echoed Voice
+
+(Speedy Specs Attacker)
+Tentacruel @ Choice Specs
+Ability: Liquid Ooze
+EVs: 20 HP / 252 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Hidden Power [Fire]
+- Acid Spray
+
+(Bulky Specs Attacker)
+Tentacruel @ Choice Specs
+Ability: Liquid Ooze
+EVs: 160 HP / 240 SpA / 108 Spe
+Calm Nature
+IVs: 0 Atk
+- Mirror Coat
+- Acid Spray
+- Ice Beam
+- Sludge Wave
+
+(Yawn F-Tears Nuke)
+Vaporeon @ Waterium Z
+Ability: Water Absorb
+EVs: 104 HP / 232 Def / 108 SpA / 64 SpD
+Modest Nature
+IVs: 0 Atk
+- Fake Tears
+- Yawn
+- Protect
+- Hydro Pump
+
+(Defensively Bulky Specs Water Nuke)
+Wishiwashi-School @ Waterium Z / Choice Specs  
+Ability: Schooling  
+EVs: 248 HP / 148 Def / 56 SpA / 56 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Surf  
+- Hidden Power [Fire] / Hidden Power [Electric] / Hidden Power [Grass]
+
+(Defensively Bulky Mag Rise Electric Nuke)
+Xurkitree @ Electrium Z
+Ability: Beast Boost
+EVs: 184 HP / 252 Def / 72 Spe
+Modest Nature
+IVs: 0 Atk
+- Magnet Rise
+- Zap Cannon
+- Hidden Power [Ice]
+- Tail Glow
+
+(Metal Sound Electric Nuke)
+Zapdos @ Electrium Z
+Ability: Pressure
+EVs: 208 HP / 136 Def / 164 SpA
+Modest Nature
+IVs: 0 Atk
+- Metal Sound
+- Thunder
+- Hidden Power [Ice]
+- Heat Wave
+
+(Electro-Web Mag Rise)
+Ampharos-Mega @ Ampharosite
+Ability: Static
+EVs: 40 Def / 252 SpA / 216 Spe
+Timid Nature
+IVs: 0 Atk
+- Electroweb
+- Thunder
+- Magnet Rise
+- Dragon Pulse
+
+(Snarl Wisp Stall)
+Arcanine @ Wiki Berry
+Ability: Intimidate
+EVs: 248 HP / 244 SpD / 16 Spe
+Timid Nature
+IVs: 0 Atk
+- Burn Up
+- Will-O-Wisp
+- Morning Sun
+- Snarl
+
+(C-Guard Wisp Stall)
+Banette-Mega @ Banettite
+Ability: Cursed Body
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Cotton Guard
+- Will-O-Wisp
+- Phantom Force
+- Taunt / Pain Split
+
+(Taunt Anti-Zard Water Nuker)
+Basculin @ Waterium Z
+Ability: Mold Breaker
+EVs: 16 HP / 252 Atk / 240 Spe
+Jolly Nature
+- Aqua Tail
+- Taunt
+- Head Smash
+- Waterfall
+
+(Frail SD Hard Hitter)
+Beedrill-Mega @ Beedrillite
+Ability: Swarm
+EVs: 48 HP / 252 Atk / 208 Spe
+Adamant Nature
+- X-Scissor
+- Swords Dance
+- Poison Jab
+- Substitute / Curse
+
+(Defensive Iron-D Struggle Bug Stall)
+Beedrill-Mega @ Beedrillite
+Ability: Swarm
+EVs: 60 HP / 96 Atk / 252 Def / 100 Spe
+Adamant Nature
+- Poison Jab
+- Iron Defense
+- Roost
+- Struggle Bug
+
+(Bulky Iron-D SD Fury Cutter)
+Beedrill-Mega @ Beedrillite
+Ability: Swarm
+EVs: 252 HP / 4 Atk / 252 Def
+Adamant Nature
+- Swords Dance
+- Iron Defense
+- Roost
+- Fury Cutter
+
+(Lite-Bulky Struggle Bug)
+Beedrill-Mega @ Beedrillite
+Ability: Swarm
+EVs: 72 HP / 136 Atk / 92 SpD / 208 Spe
+Adamant Nature
+- Struggle Bug
+- Poison Jab
+- Drill Run
+- X-Scissor
+
+(Specially Bulky Specs Attacker)
+Beheeyem @ Choice Specs
+Ability: Analytic
+EVs: 200 HP / 56 SpA / 252 SpD
+Modest Nature
+IVs: 0 Atk
+- Psychic
+- Signal Beam
+- Shadow Ball
+- Hidden Power [Fire]
+
+(Sleep Powder Grass Nuke)
+Bellossom @ Grassium Z  
+Ability: Chlorophyll  
+EVs: 248 HP / 112 Def / 148 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Petal Dance  
+- Strength Sap  
+- Sleep Powder / Laser Focus
+
+(Bulky AV Attacker)
+Drapion @ Assault Vest
+Ability: Battle Armor
+EVs: 120 HP / 160 Atk / 192 SpD / 36 Spe
+Careful Nature
+- Rock Tomb
+- Earthquake
+- Poison Jab
+- Fire Fang
+
+(Defensively Bulky Specs Attacker)
+Eelektross @ Choice Specs
+Ability: Levitate
+EVs: 248 HP / 228 Def / 20 SpA / 12 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Thunder
+- Hidden Power [Ice]
+- Giga Drain
+- Flamethrower
+
+(Scarf Coverage Attacker)
+Emboar @ Choice Scarf
+Ability: Reckless
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Head Smash
+- Flare Blitz
+- Superpower
+- Earthquake
+
+(Banded Counter Sturdy Attacker)
+Forretress @ Choice Band
+Ability: Sturdy
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+IVs: 0 Spe
+- Earthquake
+- Rock Slide
+- Gyro Ball
+- Counter
+
+(Defensively Bulky Counter Stall)
+Goodra @ Wiki Berry
+Ability: Sap Sipper
+EVs: 208 HP / 252 Def / 48 SpA
+Bold Nature
+IVs: 0 Atk
+- Acid Armor
+- Ice Beam
+- Thunderbolt
+- Counter
+
+(Defensively Bulky Specs Attacker)
+Goodra @ Choice Specs
+Ability: Sap Sipper
+EVs: 208 HP / 252 Def / 48 SpA
+Bold Nature
+IVs: 0 Atk
+- Draco Meteor
+- Ice Beam
+- Flamethrower
+- Sludge Wave
+
+(Normal Gem Fake Out Blaziken)
 Hitmonlee (M) @ Normal Gem
 Ability: Unburden
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -3268,7 +3784,7 @@ Adamant Nature
 - Stone Edge
 - Blaze Kick
 
-(Blaziken Wanna-Be)
+(Liechi Berry Endure Fake Out)
 Hitmonlee (M) @ Liechi Berry
 Ability: Unburden
 EVs: 252 Atk / 4 Def / 252 Spe
@@ -3277,6 +3793,172 @@ Adamant Nature
 - Reversal
 - Substitute
 - Rock Slide
+
+(Defensively Bulky Fake Out Normal Nuker)
+Kangaskhan @ Normalium Z
+Ability: Inner Focus
+EVs: 128 HP / 32 Atk / 252 Def / 96 Spe
+Adamant Nature
+- Fake Out
+- Curse
+- Double-Edge
+- Chip Away
+
+(Mag Rise Electric Nuke)
+Klinklang @ Electrium Z
+Ability: Clear Body
+EVs: 104 HP / 252 Atk / 40 SpD / 112 Spe
+Adamant Nature
+- Wild Charge
+- Magnet Rise
+- Gear Grind
+- Shift Gear
+
+(Tough Claws Banded Attacker)
+Lycanroc-Dusk @ Choice Band
+Ability: Tough Claws
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Stone Edge
+- Outrage / Iron Head
+- Fire Fang
+- Brick Break / Iron Head
+
+(Choice Specs Anti Stall)
+Milotic @ Choice Specs
+Ability: Competitive
+EVs: 232 HP / 228 Def / 48 SpA
+Modest Nature
+IVs: 0 Atk
+- Hidden Power [Electric]
+- Hydro Pump / Surf
+- Icy Wind
+- Mirror Coat
+
+(Defensively Bulky Recycle Stall)
+Muk-Alola @ Wiki Berry
+Ability: Gluttony
+EVs: 248 HP / 160 Def / 100 SpD
+Calm Nature
+IVs: 0 Atk
+- Recycle
+- Acid Armor
+- Acid Spray
+- Dark Pulse
+
+(CM Barrier Stall) 
+Musharna @ Wiki Berry
+Ability: Synchronize
+EVs: 244 HP / 168 Def / 96 SpD
+Calm Nature
+IVs: 0 Atk
+- Calm Mind
+- Barrier
+- Stored Power
+- Moonlight
+
+(Scarf Flinch Haxer)
+Sawsbuck-Autumn @ Choice Scarf
+Ability: Serene Grace
+EVs: 32 HP / 232 Atk / 28 Def / 216 Spe
+Jolly Nature
+- Headbutt
+- Grass Knot
+- Jump Kick
+- Seed Bomb
+
+(Sub-Sub Swarm Attacker)
+Scolipede @ Liechi Berry
+Ability: Swarm
+EVs: 12 HP / 244 Atk / 252 Spe
+Adamant Nature
+- Substitute
+- Megahorn
+- Swords Dance
+- Poison Jab
+
+(Speed Boost SD Poison Nuke)
+Scolipede @ Poisonium Z
+Ability: Speed Boost
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Protect
+- Poison Jab
+- Megahorn
+- Swords Dance
+
+(Speed Boost Blizzard Stab Abuser)
+Sharpedo-Mega @ Sharpedonite
+Ability: Speed Boost
+EVs: 252 Atk / 24 SpA / 232 Spe
+Naive Nature
+- Protect
+- Crunch
+- Blizzard
+- Rock Tomb / Psychic Fangs / Liquidation
+
+(Specially Bulky Banded Attacker)
+Stakataka @ Choice Band
+Ability: Beast Boost
+EVs: 180 HP / 124 Atk / 204 SpD
+Brave Nature
+IVs: 0 Spe
+- Gyro Ball
+- Superpower
+- Rock Blast
+- Earthquake
+
+(Bulky AV Attacker)
+Stakataka @ Assault Vest
+Ability: Beast Boost
+EVs: 232 HP / 232 Atk / 44 SpD
+Brave Nature
+IVs: 0 Spe
+- Gyro Ball
+- Rock Blast
+- Earthquake
+- Stone Edge
+
+(Sturdy Curse Offense)
+Steelix-Mega @ Steelixite
+Ability: Sturdy
+EVs: 248 HP / 44 Atk / 216 Def
+Impish Nature
+IVs: 0 Spe
+- Curse
+- Gyro Ball
+- Rock Blast
+- Earthquake
+
+(Defensively Bulky Fighting Nuke)
+Throh @ Fightinium Z
+Ability: Mold Breaker
+EVs: 248 HP / 48 Atk / 180 Def / 32 SpD
+Impish Nature
+- Superpower
+- Bulk Up
+- Rest
+- Storm Throw
+
+(Bulky Yawn Firium-Z)
+Torkoal @ Firium Z
+Ability: Drought
+EVs: 248 HP / 184 SpA / 76 SpD
+Quiet Nature
+- Yawn
+- Protect
+- Overheat
+- Rock Slide
+
+(Fightinium Z Fake Out Nuke)
+Toxicroak @ Fightinium Z
+Ability: Dry Skin
+EVs: 12 HP / 112 Atk / 160 SpA / 76 SpD / 148 Spe
+Mild Nature
+- Fake Out
+- Focus Blast
+- Gunk Shot
+- Focus Punch
 
 (Defensively Bulky Counter)
 Vigoroth @ Eviolite
@@ -3288,7 +3970,7 @@ Impish Nature
 - Counter
 - Rock Tomb
 
-(Defensively Bulky Offense)
+(Specially Defensively Bulky Set Up)
 Vigoroth @ Eviolite
 Ability: Vital Spirit
 EVs: 248 HP / 180 Def / 60 SpD / 20 Spe
@@ -3298,458 +3980,7 @@ Impish Nature
 - Slack Off
 - Return / Chip Away
 
-(SUPREME WATER NUKE)
-Araquanid @ Waterium Z
-Ability: Water Bubble
-EVs: 184 HP / 248 Atk / 76 SpD
-Adamant / Brave Nature
-- Liquidation
-- Toxic
-- Rest
-- Confide / Iron Defense / Icy Wind / Lunge / Ice Beam / Blizzard
-
-(Defensively Bulky Gale Wings Nuke)
-Talonflame @ Flyinium Z
-Ability: Gale Wings
-EVs: 164 HP / 164 Atk / 132 Def / 48 Spe
-Jolly Nature
-- Will-O-Wisp / Taunt
-- Roost / Flare Blitz
-- Brave Bird
-- Swords Dance
-
-(Choice Band)
-Stakataka @ Choice Band
-Ability: Beast Boost
-EVs: 180 HP / 124 Atk / 204 SpD
-Brave Nature
-IVs: 0 Spe
-- Gyro Ball
-- Superpower
-- Rock Blast
-- Earthquake
-
-(Assualt Vest)
-Stakataka @ Assault Vest
-Ability: Beast Boost
-EVs: 232 HP / 232 Atk / 44 SpD
-Brave Nature
-IVs: 0 Spe
-- Gyro Ball
-- Rock Blast
-- Earthquake
-- Stone Edge
-
-(Bulky Dark Type Nuke)
-Incineroar @ Incinium Z
-Ability: Intimidate
-EVs: 120 HP / 176 Atk / 36 SpD / 176 Spe
-Jolly Nature
-- Will-O-Wisp
-- Darkest Lariat
-- Bulk Up
-- Flare Blitz
-
-(Fake Out Dark Type Nuke)
-Incineroar @ Incinium Z
-Ability: Intimidate
-EVs: 248 HP / 128 Atk / 132 SpD
-Adamant Nature
-- Fake Out
-- Darkest Lariat
-- Flare Blitz
-- Bulk Up
-
-(Specially Bulky AV Anti-Meta Drape)
-Drapion @ Assault Vest
-Ability: Battle Armor
-EVs: 120 HP / 160 Atk / 192 SpD / 36 Spe
-Careful Nature
-- Rock Tomb
-- Earthquake
-- Poison Jab
-- Fire Fang
-
-(Defenively Bulky + Speed Control)
-Sharpedo-Mega @ Sharpedonite
-Ability: Speed Boost
-EVs: 144 HP / 212 Atk / 148 Def / 4 SpD
-Brave Nature
-- Crunch
-- Rock Tomb
-- Protect
-- Snarl
-
-(Special Set)
-Sharpedo-Mega @ Sharpedonite
-Ability: Speed Boost
-EVs: 252 Atk / 24 SpA / 232 Spe
-Naive Nature
-- Protect
-- Crunch
-- Blizzard
-- Rock Tomb / Psychic Fangs / Liquidation
-
-(Defensively Bulky Special Choice Specs)
-Rotom-Mow @ Choice Specs
-Ability: Levitate
-EVs: 248 HP / 144 Def / 116 SpA
-Bold Nature
-IVs: 0 Atk
-- Leaf Storm
-- Thunderbolt
-- Hidden Power [Ice]
-- Thunder
-
-(Gigavolt Nuke)
-Rotom-Mow @ Electrium Z
-Ability: Levitate
-EVs: 200 HP / 252 SpA / 8 SpD / 48 Spe
-Modest Nature
-IVs: 0 Atk
-- Thunder
-- Leaf Storm
-- Will-O-Wisp / Electroweb
-- Charge / Electroweb
-
-(Problematic Nuker)
-Rotom-Heat @ Electrium Z
-Ability: Levitate
-EVs: 36 HP / 252 SpA / 4 SpD / 216 Spe
-Timid Nature
-IVs: 0 Atk
-- Thunder
-- Overheat
-- Charge
-- Electroweb
-
-(Choice Scarf + Mind Games)
-Rampardos @ Choice Scarf
-Ability: Mold Breaker
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Head Smash
-- Superpower
-- Earthquake
-- Fire Punch
-
-(Fake-Out + Fighting Nuke)
-Toxicroak @ Fightinium Z
-Ability: Dry Skin
-EVs: 12 HP / 112 Atk / 160 SpA / 76 SpD / 148 Spe
-Mild Nature
-- Fake Out
-- Focus Blast
-- Gunk Shot
-- Focus Punch
-
-(Defensively Bulky Stored Power)
-Musharna @ Wiki Berry
-Ability: Synchronize
-EVs: 244 HP / 168 Def / 96 SpD
-Calm Nature
-IVs: 0 Atk
-- Calm Mind
-- Barrier
-- Stored Power
-- Moonlight
-
-(Cotton Guard Prankster)
-Banette-Mega @ Banettite
-Ability: Cursed Body
-EVs: 252 HP / 4 Atk / 252 Def
-Impish Nature
-- Cotton Guard
-- Will-O-Wisp
-- Phantom Force
-- Taunt / Pain Split
-
-(Physical Disruptor Prankster)
-Murkrow @ Eviolite
-Ability: Prankster
-EVs: 252 HP / 200 Def / 56 SpD
-Bold Nature
-IVs: 0 Atk
-- Feather Dance
-- Taunt
-- Roost
-- Night Shade / Dark Pulse / Foul Play
-
-(Dual Stab)
-Beedrill-Mega @ Beedrillite
-Ability: Swarm
-EVs: 48 HP / 252 Atk / 208 Spe
-Adamant Nature
-- X-Scissor
-- Swords Dance
-- Poison Jab
-- Substitute / Curse
-
-(Defensively Bulky Iron-D)
-Beedrill-Mega @ Beedrillite
-Ability: Swarm
-EVs: 60 HP / 96 Atk / 252 Def / 100 Spe
-Adamant Nature
-- Poison Jab
-- Iron Defense
-- Roost
-- Struggle Bug
-
-(SD + Iron-D + Recovery)
-Beedrill-Mega @ Beedrillite
-Ability: Swarm
-EVs: 252 HP / 4 Atk / 252 Def
-Adamant Nature
-- Swords Dance
-- Iron Defense
-- Roost
-- Fury Cutter
-
-(Struggle Bug Chip -> Offense)
-Beedrill-Mega @ Beedrillite
-Ability: Swarm
-EVs: 72 HP / 136 Atk / 92 SpD / 208 Spe
-Adamant Nature
-- Struggle Bug
-- Poison Jab
-- Drill Run
-- X-Scissor
-
-(Anti-Stat Drop Stall)
-Milotic @ Choice Specs
-Ability: Competitive
-EVs: 232 HP / 228 Def / 48 SpA
-Modest Nature
-IVs: 0 Atk
-- Hidden Power [Electric]
-- Hydro Pump / Surf
-- Icy Wind
-- Mirror Coat
-
-(Defensively Bulky Laser Focus)
-Throh @ Fightinium Z
-Ability: Mold Breaker
-EVs: 248 HP / 48 Atk / 180 Def / 32 SpD
-Impish Nature
-- Superpower
-- Bulk Up
-- Rest
-- Laser Focus
-
-(DOU Bulky Status Stall)
-Arcanine @ Wiki Berry
-Ability: Intimidate
-EVs: 248 HP / 244 SpD / 16 Spe
-Timid Nature
-IVs: 0 Atk
-- Burn Up
-- Will-O-Wisp
-- Morning Sun
-- Snarl
-
-(Defensively Bulky Fake-Out Curse)
-Kangaskhan @ Normalium Z
-Ability: Inner Focus
-EVs: 128 HP / 32 Atk / 252 Def / 96 Spe
-Adamant Nature
-- Fake Out
-- Curse
-- Double-Edge
-- Chip Away
-
-(Choice Scarf Head Smash)
-Emboar @ Choice Scarf
-Ability: Reckless
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Head Smash
-- Flare Blitz
-- Superpower
-- Earthquake
-
-(Choice Scarf)
-Roserade @ Choice Scarf
-Ability: Technician
-EVs: 56 HP / 252 SpA / 200 Spe
-Modest Nature
-IVs: 0 Atk
-- Hidden Power [Fire]
-- Petal Dance / Grass Knot
-- Dazzling Gleam / Leaf Storm / Extrasensory
-- Sludge Bomb
-
-(Choice Band)
-Lycanroc-Dusk @ Choice Band
-Ability: Tough Claws
-EVs: 252 Atk / 4 SpD / 252 Spe
-Jolly Nature
-- Stone Edge
-- Outrage / Iron Head
-- Fire Fang
-- Brick Break / Iron Head
-
-(Electrium-Z)
-Klinklang @ Electrium Z
-Ability: Clear Body
-EVs: 104 HP / 252 Atk / 40 SpD / 112 Spe
-Adamant Nature
-- Wild Charge
-- Magnet Rise
-- Gear Grind
-- Shift Gear
-
-(Electro Web)
-Ampharos-Mega @ Ampharosite
-Ability: Static
-EVs: 40 Def / 252 SpA / 216 Spe
-Timid Nature
-IVs: 0 Atk
-- Electroweb
-- Thunder
-- Magnet Rise
-- Dragon Pulse
-
-(Curse)
-Steelix-Mega @ Steelixite
-Ability: Sturdy
-EVs: 248 HP / 44 Atk / 216 Def
-Impish Nature
-IVs: 0 Spe
-- Curse
-- Gyro Ball
-- Rock Blast
-- Earthquake
-
-(Iron-D Stall)
-Mandibuzz (F) @ Darkinium Z / Leftovers
-Ability: Overcoat
-EVs: 144 HP / 164 Def / 200 Spe
-Jolly Nature
-- Iron Defense
-- Roost
-- Foul Play
-- Taunt
-
-(Acid Armor Stall)
-Manaphy @ Chesto Berry
-Ability: Hydration
-EVs: 248 HP / 148 Def / 112 SpD
-Bold Nature
-IVs: 0 Atk
-- Rest
-- Acid Armor
-- Calm Mind
-- Scald
-
-(AV Iron Fist Abuser)
-Conkeldurr @ Assault Vest
-Ability: Iron Fist
-EVs: 244 HP / 156 Atk / 108 SpD
-Adamant Nature
-- Thunder Punch
-- Hammer Arm
-- Stone Edge
-- Earthquake
-
-(Gigavolt Havoc)
-Zapdos @ Electrium Z
-Ability: Pressure
-EVs: 208 HP / 136 Def / 164 SpA
-Modest Nature
-IVs: 0 Atk
-- Metal Sound
-- Thunder
-- Hidden Power [Ice]
-- Heat Wave
-
-(Choice Specs Type: A)
-Tentacruel @ Choice Specs
-Ability: Liquid Ooze
-EVs: 20 HP / 252 SpA / 236 Spe
-Timid Nature
-IVs: 0 Atk
-- Hydro Pump
-- Ice Beam
-- Hidden Power [Fire]
-- Acid Spray
-
-(Choice Specs Type: B)
-Tentacruel @ Choice Specs
-Ability: Liquid Ooze
-EVs: 160 HP / 240 SpA / 108 Spe
-Calm Nature
-IVs: 0 Atk
-- Mirror Coat
-- Acid Spray
-- Ice Beam
-- Sludge Wave
-
-(Defensively Bulky Acid Armor + Counter)
-Goodra @ Wiki Berry
-Ability: Sap Sipper
-EVs: 208 HP / 252 Def / 48 SpA
-Bold Nature
-IVs: 0 Atk
-- Acid Armor
-- Ice Beam
-- Thunderbolt
-- Counter
-
-(Choice Specs)
-Goodra @ Choice Specs
-Ability: Sap Sipper
-EVs: 208 HP / 252 Def / 48 SpA
-Bold Nature
-IVs: 0 Atk
-- Draco Meteor
-- Ice Beam
-- Flamethrower
-- Sludge Wave
-
-(Choice Scarf)
-Sawsbuck-Autumn @ Choice Scarf
-Ability: Serene Grace
-EVs: 32 HP / 232 Atk / 28 Def / 216 Spe
-Jolly Nature
-- Headbutt
-- Grass Knot
-- Jump Kick
-- Seed Bomb
-
-(Electrium-Z Magnet Rise)
-Xurkitree @ Electrium Z
-Ability: Beast Boost
-EVs: 184 HP / 252 Def / 72 Spe
-Modest Nature
-IVs: 0 Atk
-- Magnet Rise
-- Zap Cannon
-- Hidden Power [Ice]
-- Tail Glow
-
-(Choice Specs)
-Eelektross @ Choice Specs
-Ability: Levitate
-EVs: 248 HP / 228 Def / 20 SpA / 12 SpD
-Quiet Nature
-IVs: 0 Atk / 0 Spe
-- Thunder
-- Hidden Power [Ice]
-- Giga Drain
-- Flamethrower
-
-(Iron-D Q-Dance)
-Dustox @ Charti Berry
-Ability: Shield Dust
-EVs: 72 HP / 220 Def / 216 Spe
-Bold Nature
-IVs: 0 Atk
-- Iron Defense
-- Roost
-- Quiver Dance
-- Bug Buzz
-
-(Anti Stat Drop)
+(Defensive Scarf Coverage Attacker)
 Wigglytuff @ Choice Scarf
 Ability: Competitive
 EVs: 148 Def / 108 SpA / 252 Spe
@@ -3759,150 +3990,3 @@ IVs: 0 Atk
 - Dazzling Gleam
 - Fire Blast
 - Ice Beam
-
-(Sub-Sub Swarm Stab)
-Scolipede @ Liechi Berry
-Ability: Swarm
-EVs: 12 HP / 244 Atk / 252 Spe
-Adamant Nature
-- Substitute
-- Megahorn
-- Swords Dance
-- Poison Jab
-
-(Speed Boost Poison Nuke)
-Scolipede @ Poisonium Z
-Ability: Speed Boost
-EVs: 4 HP / 252 Atk / 252 Spe
-Adamant Nature
-- Protect
-- Poison Jab
-- Megahorn
-- Swords Dance
-
-(Choice Specs)
-Beheeyem @ Choice Specs
-Ability: Analytic
-EVs: 200 HP / 56 SpA / 252 SpD
-Modest Nature
-IVs: 0 Atk
-- Psychic / Psyshock
-- Thunderbolt
-- Shadow Ball
-- Hidden Power [Ice] / Hidden Power [Fire]
-
-(Hyper Beam Specs Nuke)
-Sylveon @ Choice Specs
-Ability: Pixilate
-EVs: 252 HP / 60 Def / 172 SpA / 24 SpD
-Modest Nature
-IVs: 0 Atk
-- Hyper Beam
-- Hyper Voice
-- Hidden Power [Rock]
-- Echoed Voice
-
-(Eviolite Bulky)
-Piloswine @ Eviolite
-Ability: Thick Fat
-EVs: 248 HP / 4 Atk / 136 Def / 120 SpD
-Impish Nature
-- Earthquake
-- Ice Shard
-- Stone Edge
-- Endeavor
-
-(Eviolite Set Up)
-Piloswine @ Eviolite
-Ability: Thick Fat / Oblivious
-EVs: 248 HP / 4 Atk / 136 Def / 120 SpD
-Impish Nature
-- Curse
-- Amnesia
-- Rest
-- Avalanche
-
-(Outspeeds Non-Jolly Gyarados)
-Magneton @ Electrium Z
-Ability: Sturdy
-EVs: 4 HP / 252 SpA / 252 Spe
-Timid Nature
-IVs: 0 Atk
-- Zap Cannon
-- Electroweb
-- Metal Sound
-- Protect
-
-(Acid Armor Recycle Stall)
-Muk-Alola @ Wiki Berry
-Ability: Gluttony
-EVs: 248 HP / 160 Def / 100 SpD
-Calm Nature
-IVs: 0 Atk
-- Recycle
-- Acid Armor
-- Acid Spray
-- Dark Pulse
-
-(Yawn Fire Nuke)
-Torkoal @ Firium Z
-Ability: Drought
-EVs: 248 HP / 184 SpA / 76 SpD
-Quiet Nature
-- Yawn
-- Protect
-- Overheat
-- Rock Slide
-
-(ORAS Choice Band)
-Forretress @ Choice Band
-Ability: Sturdy
-EVs: 252 HP / 252 Atk / 4 SpD
-Brave Nature
-IVs: 0 Spe
-- Earthquake
-- Rock Slide
-- Gyro Ball
-- Counter
-
-(Yawn Fake Tears)
-Vaporeon @ Waterium Z
-Ability: Water Absorb
-EVs: 104 HP / 232 Def / 108 SpA / 64 SpD
-Modest Nature
-IVs: 0 Atk
-- Fake Tears
-- Yawn
-- Protect
-- Hydro Pump
-
-(Waterium-Z Head Smash)
-Basculin @ Waterium Z
-Ability: Mold Breaker
-EVs: 16 HP / 252 Atk / 240 Spe
-Jolly Nature
-- Aqua Tail
-- Taunt
-- Head Smash
-- Waterfall
-
-(Zoble Roar Stall)
-Kyurem @ Normalium Z
-Ability: Pressure
-EVs: 224 HP / 136 Def / 148 SpD
-Bold Nature
-IVs: 0 Atk
-- Noble Roar
-- Roost
-- Ice Beam
-- Earth Power / Rest
-
-(Feather Dance or Flying Nuke)
-Hawlucha @ Flyinium Z
-Ability: Mold Breaker
-EVs: 248 Atk / 68 Def / 192 Spe
-Jolly Nature
-- Sky Attack
-- Feather Dance
-- Roost
-- High Jump Kick

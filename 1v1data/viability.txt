@@ -41,6 +41,7 @@ B+ Rank
  Pinsir-Mega
  Primarina
  Tapu Fini
+ Zeraora
 
 
 B Rank
@@ -145,3 +146,64 @@ D Rank
  Stunfisk
  Type: Null
  Volcanion
+
+
+U1 Rank
+ Incineroar
+ Kyurem
+ Magneton
+ Mandibuzz
+ Murkrow
+ Piloswine
+ Rampardos
+ Talonflame
+
+
+U2 Rank
+ Araquanid
+ Conkeldurr
+ Hawlucha
+ Manaphy
+ Roserade
+ Rotom-Heat
+ Rotom-Mow
+ Rotom-Wash
+ Sylveon
+ Tentacruel
+ Vaporeon
+ Wishiwashi-School
+ Xurkitree
+ Zapdos
+
+
+U3 Rank
+ Ampharos-Mega
+ Arcanine
+ Banette-Mega
+ Basculin
+ Beedrill-Mega
+ Beheeyem
+ Bellossom
+ Drapion
+ Eelektross
+ Emboar
+ Forretress
+ Goodra
+ Hitmonlee
+ Kangaskhan
+ Klinklang
+ Lycanroc-Dusk
+ Milotic
+ Muk-Alola
+ Musharna
+ Sawsbuck-Autumn
+ Scolipede
+ Sharpedo-Mega
+ Stakataka
+ Steelix-Mega
+ Throh
+ Torkoal
+ Toxicroak
+ Vigoroth
+ Wigglytuff
+ 
