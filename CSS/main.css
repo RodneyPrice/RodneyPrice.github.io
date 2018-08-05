@@ -7,120 +7,10 @@ body{
 div ul{height:450px; width:100%;}
 div ul{overflow:hidden; overflow-y:scroll;}
 
-
-
-
-
-/*.PkmnSorter {
-    padding: 2px 2px;
-    border: 5px solid #73AD21;
-    background-color: transparent;
-    width: 40vw;
-    height: 10vh;
-}*/
-
-/*.Placing {
-    min-height: 20px;
-    width: 50px;
-}*/
-
-/*.Catalog { 
-    float: left;
-    border: 0px solid #73AD21;
-    padding: 2px;
-    padding-top: 0%;
-    overflow: scroll;
-    background-color: transparent;
-    text-align: left;
-    height: 85vh;
-    width: 40vw;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0; padding: 0;
-    width: 100%;
-}*/
-
-/*
-ul li{
-    width: 100%;
-}
-
-ul li a {
-    padding: 2px 5px 2px 2px;
-    width: 100%;
-    display: block;
-    font-family: sans-serif;
-}
-
-a:link, a:visited{
-    background-color: transparent;
-    color: black;
-    padding: 2px 10px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
-}
-*/
-/*a:active {
-    background-color: transparent;
-}
-
-a:hover {
-    background-color: lightgray;
-}
-
-.col{
-    float: left;
-}
-
-.PkmnRanking {
-    height: 30px;
-    width: 5%;
-    padding-right: 2%;
-    display: block;
-    text-align: left;
-    white-space: nowrap;
-    color: #999;
-    font-size: 9pt;
-}
-
-.PkmnIcon {
-    height: 30px;
-    width: 10%;
-    margin-top: -5px;
-    padding-right: 3%;
-    white-space: nowrap;
-}
-    
-.PkmnName {
-    height: 5px;
-    width: 45%;
-    white-space: nowrap;
-    text-align: left;
-    padding-left: 5%;
-    color: white;
-}
-
-.PkmnClass {
-    height: 5%;
-    width: 30%;
-    white-space: nowrap;
-    text-align: center;
-    color: white;
-}
-*/
-
-
-
-
 .Pkmndatabtn {
    width: 500px
     
 }
-
-
 
 .PkmnTeam {
     width: 100%
@@ -151,4 +41,16 @@ a:hover {
 .find() {
     text-align: center;
     
+}
+
+.MPkmn {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+.MPkmnIcon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px
 }

@@ -1,62 +1,62 @@
 S Rank
- Gyarados-Mega
+ Gyarados-Mega (L)
 
 
 A+ Rank
- Charizard-Mega-X
- Charizard-Mega-Y
- Dragonite
- Magearna
- Metagross-Mega
- Mimikyu
+ Charizard-Mega-X (W)
+ Charizard-Mega-Y (UD)
+ Dragonite (W No Scarf)
+ Magearna (UD)
+ Metagross-Mega (UD)
+ Mimikyu (L)
 
 
 A Rank
- Landorus-Therian
- Snorlax
- Tapu Lele
- Zygarde-Complete
+ Landorus-Therian (L)
+ Snorlax (L)
+ Tapu Lele (L)
+ Zygarde-Complete (W)
 
 
 A- Rank
- Lopunny-Mega
- Magnezone
- Porygon-Z
- Slowbro-Mega
- Venusaur-Mega
+ Lopunny-Mega (L)
+ Magnezone (W)
+ Porygon-Z (L Scarf W Specs L Normalium)
+ Slowbro-Mega (L)
+ Venusaur-Mega (W)
 
 
 B+ Rank
- Aegislash
- Altaria-Mega
- Aggron-Mega
- Donphan
- Gardevoir-Mega
- Genesect
- Golem
- Greninja
- Jumpluff
- Meloetta
- Naganadel
- Pinsir-Mega
- Primarina
- Tapu Fini
- Zeraora
+ Aegislash (UD)
+ Altaria-Mega (UD)
+ Aggron-Mega (L)
+ Donphan (L)
+ Gardevoir-Mega (W)
+ Genesect (W)
+ Golem (L)
+ Greninja (L)
+ Jumpluff (W)
+ Meloetta (L)
+ Naganadel (L Scarf Win Specs)
+ Pinsir-Mega (W)
+ Primarina (W)
+ Tapu Fini (W)
+ Zeraora (W)
 
 
 B Rank
- Blaziken
- Blaziken-Mega
- Chansey
- Ferrothorn
- Garchomp
- Heatran
- Heracross-Mega
- Kartana
- Mawile-Mega
- Mew
- Necrozma
- Sableye-Mega
+ Blaziken (W)
+ Blaziken-Mega (W)
+ Chansey (L)
+ Ferrothorn (W)
+ Garchomp (L if Scarf)
+ Heatran (L)
+ Heracross-Mega (W)
+ Kartana (L if Scarf W if Band)
+ Mawile-Mega (W)
+ Mew (L)
+ Necrozma (L)
+ Sableye-Mega ()
  Sawk
  Tyranitar-Mega
 

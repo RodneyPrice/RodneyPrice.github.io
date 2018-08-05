@@ -28,6 +28,14 @@ function readViability(){
     }).catch(error => console.error(error))
 }
 
+function readClass(){
+    fetch("/1v1data/AllClassifications.txt").then(response => {
+        if (response.ok){
+            response.text().then(updateClassifications())
+        } else console.log("Could not access viability rankings " + response.status + ": " + response.statusText)
+    }).catch(error => console.error(error))
+}
+
 function updateRanking(text){
     text = text.split(/\n{3}|\r\n\r\n\r\n/)
     text.map(block => {
@@ -54,6 +62,10 @@ function encapsulateSets(pokemonSets){
     pokemon = pokesets.reduce((li, set) => (li[set["name"]] = {rank: 'U'}, li), {})
     generateHTMLList()
     readViability()
+}
+
+function updateClassifications(x) {
+    return ("I am Placeholder Text")
 }
 
 function buildPokemon(set){
@@ -93,7 +105,7 @@ function generateHTMLList(){
     for (let name in pokemon){
         var li = template.clone(true)
         li.get(0).id = idFromName(name)
-        li.find(".Pkmndatabtn").get(0) //This line needs to be fix to fit the buttons we are using.
+        li.find(".Pkmndatabtn").get(0) 
         li.find(".PkmnName").get(0).innerHTML = name
         li.find(".PkmnIcon").find('img').get(0).src = "../PokemonIcons/" + 
             name.toLowerCase().replace(" ", "-").replace(":", "") + ".png"
@@ -101,8 +113,6 @@ function generateHTMLList(){
     }
     ul.find("li:nth-child(1)").get(0).style.display = "none"
 }
-
-//Create a function or Python Function if you want that can rip sprite data from PS Dex (The animated GIFS) and place them on the Pkmn Team Fluid.
 
 //Create a function or Python Function that will read Classifications.txt and be able to do the same as what readviability has been doing
 
